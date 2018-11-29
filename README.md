@@ -8,7 +8,10 @@ software for scraping some website
 ## Running
 Pass in the site as an environment variable. Do not add it to version control
 to keep it a secret
-1. `HOSTNAME=<site url> scrapy runspider myspider.py -o questions.json`
+1. `HOSTNAME=<site url> scrapy crawl nyc -o questions.csv`
 
 ## Resources
 * https://doc.scrapy.org/en/1.5/intro/tutorial.html
+
+## TODO
+* store data in a csv
