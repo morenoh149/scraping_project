@@ -1,0 +1,1299 @@
+﻿"author","question"
+"Customer Service Representative at Farmers Insurance Group was asked..."," What is your weakest quility."
+"Data Scientist at CCRi was asked..."," Explain Python."
+"Data Scientist at Zenefits was asked..."," Bayes' Formular: Marbles: There are 30 red marbles and 10 black marbles in Urn #1. You have 20 red and 20 Black marbles in Urn 2. Randomly you pull a marble from the random urn and find that it is red. What is the probability that it was pulled from Urn #1"
+"Data Scientist at Zenefits was asked..."," Two random cards numbered from 1,2...100 are pulled from the deck. What is the probability that one number doubles the other from the deck. "
+"Data Scientist at Zenefits was asked..."," Alice and Bob take turns in rolling a fair dice. Whoever gets ""6"" first wins the game. Alice starts the game. What are the chances that Alice wins. "
+"Data Scientist at Facebook was asked..."," Write C++ code to copy a graph, once done whats the algorithmical complexity of this"
+"Data Scientist at Fino Consulting was asked..."," Why is data important? (or something along those lines; I'd call this an unexpected question)"
+"Data Scientist at Spotify was asked..."," given n samples from a uniform distribution [0, d], how to estimate d?"
+"Data Scientist at Corcoran Group was asked..."," What are generators in python?"
+"Retail Coverage Merchandiser at Acosta was asked..."," How my experience would help me in this capacity."
+"Data Scientist at Swiss Re was asked..."," What machine learning project have you done? - PCA OK, let's talk about PCA. Tell me what it stands for? - SVD How is SVD defined? How do you calculate orthogonal vectors? etc.."
+"Data Scientist at Tesla was asked..."," There are three questions in the interview. 1. Probability questions: There are 100 product and 25 of them is bad. What is the confident interval. 2. Maximum likelihood questions: solve exponential function and get the maximum likelihood estimator. 3. Use ""dplyr"" package in R to solve a case."
+"Data Scientist at PURE Group of Insurance Companies was asked..."," I was asked questions about my presentation and Hiring Manager was supportive. They asked a lot of questions majorly on my resume but also asked some real time challenging questions based on their current requirement. I got disappointed when I asked a question to Senior Manager about the company and I got a very bad response. I asked about different projects which they are working on so that I could get a better understanding about Data Science use cases and the Senior manager did not give a professional reply and stated that 'This should not be your concern.' There were other questions as well where I felt that Senior Manager is being very rude to the interviewee. Apart from this all the other interviewers were very warm and kind."
+"Data Scientist at Weather Analytics was asked..."," Tell us about projects you worked on."
+"Data Scientist at OnDeck was asked..."," machine learning algorithm questions mostly on logistic regression."
+"Data Scientist at ActionIQ was asked..."," Given a string, create a list of all possible anagrams."
+"Data Scientist Interview at First Derivatives was asked..."," Willing to travel?"
+"Data Scientist Interview at First Derivatives was asked..."," What skills do you have that will help you succeed at FD? "
+"Data Scientist at Capital One was asked..."," implement a function to calculate matrix sum. calculate the probability of coin head"
+"Data Scientist Interview at First Derivatives was asked..."," What your expectations from FD?"
+"Data Scientist at Securonix was asked..."," How can you predict future from historical data?"
+"Data Scientist at Jefferies was asked..."," How do you build a recommendation algo for securities?"
+"Data Scientist Interview at First Derivatives was asked..."," What does FD do? News? Clients? Delta platform software ? Kdb+ Database? The Capital Market training programme? "
+"Data Scientist Interview at First Derivatives was asked..."," Why FD? What is your motivation to apply to FD? "
+"Software Engineer,, Software Engineer(Internshi), Data Scientist at Facebook was asked..."," They will ask you to design a very simple thing. Be prepared to innovate on the spot."
+"Data Scientist Interview at First Derivatives was asked..."," Background: degree, GPA, .."
+"Data Scientist at Via Transportation was asked..."," Rides on the Upper East Side receive lower than average ratings, what data would you gather and how would you model this? "
+"Data Scientist at J.P. Morgan was asked..."," Dynamic Prediction study"
+"Data Scientist at Paperless Post was asked..."," What is a API? What is a ETL Pipeline?"
+"Entry Level Data Scientist at Electronic Arts was asked..."," general machine learning questions one algorithm question found in leetcode"
+"Data Scientist at Capital One was asked..."," Describe the modeling process from the beginning."
+"Data Scientist (Marketing Analytics) at OnDeck was asked..."," Like basic python questions and basic sql query questions."
+"Entry Level Data Scientist at Electronic Arts was asked..."," general machine learning questions one algorithm question found in leetcode"
+"Data Scientist at OnDeck was asked..."," Like how to implement statistics mean function in python, how to flatten a nested list in Python, and also some SQL easy questions, like basic select query"
+"Data Scientist at 6sense was asked..."," Walk through the project details (predictive modeling project)"
+"Data Scientist at OnDeck was asked..."," return the largest palindrome from a very long string."
+"Data Scientist at Yodle was asked..."," You are playing a game of HORSE with a replica of yourself, so your shooting percentage is probability p (for the both of you). The rules are that if you make a basket and your replica misses, then you win the game. If your replica makes the basket and you miss, then you lose. If you both miss, then you start over again. What is the expected probability that you will win the game?"
+"Data Scientist at Centiment was asked..."," How to optimize the model?"
+"Data Scientist at The Home Depot was asked..."," How do you determine the price of a product without any information about it?"
+"Data Scientist at Amazon was asked..."," Coding: Given a bar plot and imagine you are pouring water from the top, how to qualify how much water can be kept in the bar chart. "
+"Data Scientist at ActionIQ was asked..."," Basic coding question -- how do you do ""group by"" operations?"
+"Data Scientist at Civis Analytics was asked..."," Why do you want to work for Civis Analytics?"
+"Data Scientist at ActionIQ was asked..."," Data challenge -- rank and score 50000 tweets in a text doc based on sentiment (in 3 hours)"
+"Data Scientist at Commonwealth Bank of Australia was asked..."," They gave exercise to solve."
+"Junior Data Scientist at Unified was asked..."," sql stuff"
+"Data Scientist at New York Life was asked..."," Statistical and Machine Learning questions such as: What is ROC curve? Difference between Random Forest and Boosting."
+"Data Scientist at Riot Games was asked..."," When to use Python and R"
+"Data Scientist at Fulcrum Analytics was asked..."," Tell me about your background, some brain teasers, ML and stats questions, SQL and Python/R Whiteboard questions."
+"Driver at Jimmy John's was asked..."," Are you reliable?"
+"Data Scientist at AOL was asked..."," We got past what I did and then walked through some of the details of a problem the team was working on. An entity matching problem with many attributes."
+"Data Scientist at Capital One was asked..."," Biz case study interview, behaviorial, technical case study, technical interview."
+"Data Scientist at Feedzai was asked..."," Q: explain the kaggle challenge dataset, what did you see in data, what features did you use and why?"
+"Data Scientist Interview at Correlation One was asked..."," related to predicting stock values."
+"Data Scientist at Wish was asked..."," Basic question about String manipulation."
+"Data Scientist at Grab was asked..."," What is overfitting and how you deal with it"
+"Data Scientist at Facebook was asked..."," Fundamental Algorithm questions that every Computer Scientist should know. "
+"Data Scientist at Plated was asked..."," how would you design such recommendation system and follow up questions"
+"Data Scientist at AllianceBernstein was asked..."," What is bias variance trade off? Does K-NN require you to scale your features? How would you perform classification if you had to use linear regression? What are assumptions of linear regression? How would you assess your model? Lots of questions relating to recall, precision, etc."
+"Data Scientist at SoundCloud was asked..."," What is one thing you'd like to accomplish as a data scientist at SoundCloud?"
+"Data Scientist at Endgame was asked..."," How do you describe data scientist?"
+"Data Scientist at Temasek was asked..."," What would your managers (at my previous internship) say about you if I call them?"
+"Data Scientist at Via Transportation was asked..."," If we want to build a logistic regression model with the distance (between the rider's current location and the pickup location) as the feature and the rider's acceptance as output, what would be the meaning of the coefficient of the feature, how about the intercept? What will happen to the model if we change the scale of the distance (from mile to km, or from km to m)?"
+"Data Scientist at Bowery Farming was asked..."," Most questions related to thinking through problems typical to the role and discussing possible solutions"
+"Data Scientist at S&P Global Ratings was asked..."," What are ways to do feature selections"
+"Data Scientist at Simon Data was asked..."," Tell me how logistic regression works? "
+"Data Scientist at SoundCloud was asked..."," ""For a user X, recommend 5 playlists they would like that they haven’t heard before. You can attempt this via SQL or any other programming language of your choice. Please explain your logic."""
+"Data Scientist at Bloomberg L.P. was asked..."," I was asked several times to describe a situation where I had a conflict with a manager to the point where it made me wonder if they have a lot of conflicts in their department."
+"Data Scientist at Credit Acceptance was asked..."," What is the difference between a left join and a right join in SQL?"
+"Data Scientist at Opera Solutions was asked..."," Explain SIFT (scale invariant feature transform) workflow, Support vector Machines, Newton Optimization method."
+"Data Scientist at Deutsch was asked..."," What programming skills have you worked with in the past?"
+"Data Scientist at Cognizant Technology Solutions was asked..."," The trend of the data"
+"Data Scientist at OpenSlate was asked..."," Describe your project"
+"Data Scientist at VIA was asked..."," user case : why the UES driver rate is low, how you find this problem and how you confirm it, how you solve it."
+"Data Scientist at Aera Technology was asked..."," Python code"
+"Data Scientist at Aera Technology was asked..."," SQL"
+"Data Scientist at Aera Technology was asked..."," basic machine learning"
+"Data Scientist at Grab was asked..."," Three problems in codility. One sql, two standard algorithm problems."
+"Data Scientist at TripAdvisor was asked..."," p-value, F1 score definition, case study on fraud detection like given 99% fraud cases and 1% non fraud what model will you take? one case on, given new hotels, how would you set stuff so that they also get booked."
+"Data Scientist at Dell was asked..."," data science basic questions"
+"Data Scientist at Capital One was asked..."," Tech: conceptual -- time series, clustering, data munging, experience working with ""real world"" data. Discussion about my previous statistical work (academic research in astronomy)."
+"Data Scientist at OnDeck was asked..."," Talk about the projects you worked on "
+"Data Scientist at Intent Media was asked..."," Describe A/B Testing and Statistical Significance to a non-technical audience."
+"Data Scientist at Wayfair was asked..."," Case study on the price tag"
+"Data Scientist at EY was asked..."," Standard behavioral stuff (tell me about a time you had a conflict with your boss, etc.)"
+"Data Scientist at Fino Consulting was asked..."," How would you build profiles for user searches on google."
+"Data Scientist at CKM Advisors was asked..."," Size the tobacco market in the united states"
+"Data Scientist at CKM Advisors was asked..."," If you could have any dataset on any topic (resources/collection methods NOT a factor) what would the dataset look like and what would you do with it."
+"Data Scientist at EY was asked..."," What are you working on right now?"
+"Data Scientist at Facebook was asked..."," What is the expectation of the variance?"
+"Data Scientist at Via Transportation was asked..."," The interview questions on the phone were pretty straightforward data science questions regarding feature selection and building models. The technical challenge is described in detail above."
+"Data Scientist at KPMG was asked..."," Presentation"
+"Senior Data Scientist at Electric AI was asked..."," What gets you excited to come into work in the morning?"
+"Data Scientist at Magnetic was asked..."," Generation of random numbers"
+"Data Scientist at CKM Advisors was asked..."," Most questions are about whether you know the method or not."
+"Data Scientist at SoundCloud was asked..."," What are you looking for in your next role? "
+"Data Scientist at Itlize Global was asked..."," Tell me about your experience? What are the data issues have you faced during work? How do you provide predictive analytics in your project? What are the ML models you have used?"
+"Data Scientist at Fulcrum Analytics was asked..."," Which phase of a data science project would you say you are most interested/competent in?"
+"Data Scientist at J.P. Morgan was asked..."," do you have any questions？"
+"Data Scientist at J.P. Morgan was asked..."," what do you learn from it"
+"Data Scientist at J.P. Morgan was asked..."," what are you doing currently"
+"Data Scientist at Airbnb was asked..."," A/B testing."
+"Data Scientist at Branch International was asked..."," Sorting algorithm and determining duplicates. Definitely had a second part but I spent too much time on solving the first"
+"Data Scientist at Branch International was asked..."," How would you create a database structure so that you can recreate history for past models? How would you save the parameters and the results?"
+"Data Scientist, Quantitative Analyst at Google was asked..."," How do you estimate the probability of people who are left-hand and own bicycle?"
+"Data Scientist at CKM Advisors was asked..."," What's the biggest challenge in your teamwork?"
+"Data Scientist at Knewton was asked..."," There was an overly complex and pointless technical challenge which was a recommender system/test question distribution exercise that probably would've taken 40+ hours to complete and was unpaid. "
+"Data Scientist at American Express was asked..."," I think that one of the questions they asked was just have no answer. I seriously doubt the validity of the question."
+"Data Scientist at CKM Advisors was asked..."," What do you see yourself doing in five years"
+"Data Scientist at Capital One was asked..."," Tell me about a time you used someone else expertise to solve a problem. Tell me about a time you learned something new and solved a problem. "
+"Data Scientist at Spotify was asked..."," How would you leverage Spotify's data?"
+"Data Scientist at Capital One was asked..."," Tell me about your experience in neural network?"
+"Data Scientist at BuzzFeed was asked..."," What type of models I have used in my previous job. What role I would like to have in the case I were accepted."
+"Data Scientist at First Derivatives was asked..."," Q: What do you know about the CMTP program?"
+"Data Scientist at Walmart was asked..."," some questions about my NLP project"
+"Data Scientist at First Derivatives was asked..."," Q: Can you tell us about our kdb products?"
+"Data Scientist at First Derivatives was asked..."," Q: Have you read anything about us on the news lately?"
+"Data Scientist at First Derivatives was asked..."," Q: What do you know about First Derivates?"
+"Data Scientist at Fidelity Investments was asked..."," What would R output if these two matrices were multiplied? (non-matching dimensions)"
+"Data Scientist at Fidelity Investments was asked..."," How would you make a binary classifier work for multi-class classification?"
+"Data Scientist at Fidelity Investments was asked..."," What are your favorite packages in R?"
+"Data Scientist at Pymetrics was asked..."," Derive logistic regression."
+"Data Scientist at CKM Advisors was asked..."," If you had any dataset you wanted, what would it be and what would you do with it? Explain implementation details."
+"Data Scientist at Thinkeco was asked..."," understanding datasets and the energy sector"
+"Data Scientist at Analytic Partners was asked..."," why AP? what's your strength and weakness? some time that you have conflict with your team? go through your details in your resume. "
+"Data Scientist at Sailthru was asked..."," Under NDA"
+"Data Scientist at SAP was asked..."," Q: Name a project you've completed before that other people said was not possible, explain how you approached the project in a constructive manner."
+"Data Scientist at Enigma was asked..."," I don't have a specific question, they sent me a data science challenge consisting of a small dataset and some questions."
+"Data Scientist at Knewton was asked..."," Write efficient code to find intersections between two lists."
+"Data Scientist at Deloitte was asked..."," past projects discussion on feature engineering, algorithm identification"
+"Data Scientist at SAP was asked..."," - cross-lingual word vectors - policy gradients - how to deal with the lack of training data"
+"Data Scientist at Teachers Pay Teachers was asked..."," it was a phone screen with HR"
+"Data Scientist at NewYork-Presbyterian Hospital was asked..."," What is the difference between a class and object in Java?"
+"Data Scientist at Booz Allen Hamilton was asked..."," Describe your most recent data science project briefly"
+"Data Scientist at Avanade was asked..."," Tell us about a technology you are passionate about."
+"Data Scientist at Burtch Works was asked..."," How do you optimize model parameters during model building?"
+"Data Scientist at CKM Advisors was asked..."," Where to place an ad given citi bike data"
+"Junior Data Scientist at Xoriant was asked..."," Mainly about Codes for different problem and structure of LSTM"
+"Principal Data Scientist at Aetna was asked..."," Questions about past projects Why did you pick this machine learning model for this problem? Experience with A/B testing"
+"Data Scientist at Knewton was asked..."," How has an analysis you have done impacted a product?"
+"Data Scientist at Spotify was asked..."," do something, but we won't tell you what we're looking for."
+"Data Scientist at Andela was asked..."," Q: How comprehensive do you think data science can be in terms of predicting outcomes for human performance?"
+"Data Scientist at Via Transportation was asked..."," We want to know where are the riders, how would you do that? "
+"Data Scientist at CKM Advisors was asked..."," Discuss past projects from your resume"
+"Data Scientist at Via Transportation was asked..."," When you run into a research problem you can't solve, what would you do?"
+"Data Scientist at Amazon was asked..."," Tell me about yourself."
+"Data Scientist at Bloomberg L.P. was asked..."," They asked many questions about programing, Machine Learning, and system design. For the ML one of the questions they asked was about describing Support Vector Machines"
+"Data Scientist at CKM Advisors was asked..."," Why are you interested in a career in data science?"
+"Data Scientist at SeatGeek was asked..."," Implement random choice function (non-biased) How to do it by using iterator? If only consider location, how to recommend venue to customer? Explain regression to non-business people. Use Spark to generate sum."
+"Data Scientist at J.P. Morgan was asked..."," a lot of questions about machine learning algorithms"
+"Data Scientist at Jet was asked..."," Tell me about something not on your resume"
+"Client Data Scientist at DemystData was asked..."," Why do you want to work here?"
+"Data Scientist at Zurich North America was asked..."," Tell me about one project that you are proud of "
+"Data Scientist at Squarespace was asked..."," 1. Background and relevant experience 2. How their pricing model could be improved to increase customer retention based on life time value?"
+"Senior Data Scientist at LinkedIn was asked..."," The buy/sell stock days to gain the maximum benefit. "
+"Senior Data Scientist at Aetna was asked..."," Give an example where you have designed experiments"
+"Big Data Scientist at HexaCorp was asked..."," What skill would you apply to the field the most? (I had two choices to be a programmer or Data Analyst route)"
+"Data Scientist at KIPP Foundation was asked..."," R packages, Case study"
+"Data Scientist at CKM Advisors was asked..."," What's important to you in a company? What's your philosophy for Data Science? Where do you see yourself in 60 years? (60. not a typo.)"
+"Data Analyst at Cognius was asked..."," How would every boss you've ever had rate you on a scale of 1-10, and describe why."
+"Senior Data Scientist at Aetna was asked..."," Give an example of experimental design you did"
+"Data Scientist at ClassPass was asked..."," presentation. A/B testing "
+"Data Scientist at Oscar Health was asked..."," If you were god how would you... ? (follow up from original debate question)"
+"Data Scientist at AdTheorent was asked..."," I got a physics question and about three coding questions related to card shuffling. "
+"Data Scientist at J.P. Morgan was asked..."," Diagnostics of linear and logistic regressions. "
+"Data Mining Scientist at Etsy was asked..."," Given the set a a b b a a c c b b of unknown length, write an algorithm that figures out which occurs most frequently and with the most continuous repetition."
+"Data Scientist at BuzzFeed was asked..."," Why do you want to join buzzfeed?"
+"Data Scientist at Capgemini was asked..."," Questions were basic"
+"Data Scientist at CKM Advisors was asked..."," What will the prevalence of solar energy be in 2025 (give me a number)? Talk about projects you've worked on. Tell me about how the internet works."
+"Data Scientist at Via Transportation was asked..."," The written test asked me how I would figure out whether to expand service to Astoria "
+"Data Scientist at Lynx Analytics was asked..."," SQL, programming, and statement based questions."
+"Data Scientist at GE was asked..."," how to react in the stressful and changeling environment? How to evaluate the success of a product? Programming Questions and General Questions about PhD Work"
+"Data Scientist at Barclays was asked..."," How will you evaluate your model on email data set?"
+"Data Scientist at Capital One was asked..."," (onsite) How would you explain the multinomial distribution and write python code on a whiteboard to represent this distribution"
+"Data Scientist at Legends was asked..."," Why does logistic linear regression give the best performance in your project?"
+"Data Scientist at Xero was asked..."," past exp5"
+"Data Scientist at National Grid USA was asked..."," The analytical question was how to lower the cost of a fleet truck, it is very detail oriented yet very interesting, chanlleging"
+"Data Scientist at JUUL Labs was asked..."," How would you come up with a model for the rate of substitution of juul products for cigarette products ?"
+"Data Scientist at Microsoft was asked..."," Describe one of your projects and how much responsibilities you took in delivering the results."
+"Data Scientist at J.P. Morgan was asked..."," In the first place, they were interested in my financial knowledge. They also were trying to determine how much machine learning I knew."
+"Data Scientist at Crossover for Work was asked..."," Are you ok with installing spying software on your computer and handling your own taxes?"
+"Senior Data Scientist at Centiment was asked..."," Define optimal decision boundary achievement in a second generation neural network model"
+"Data Scientist at C3 was asked..."," 4 questions were asked, 3 multiple choice machine learning based questions. One was coding an algorithm. The coding interface was not that easy to debug in (I'd suggest you try a few Hackerrank questions first, I tried the sample one but I never had to debug so I didn't realise) and I couldn't output the answer in the needed format but on my IDE I got a correct answer."
+"Data Scientist at Wayfair was asked..."," 1.) Peer data scientist asked a probability problem and gave me a printed out algorithm and asked to explain what it does. Both were very esoteric and I am not sure what they were supposed to test... 2.) Engineers asked simple algorithm in Python and then attempted to ask about how I would detect robots in the server logs to account for them in estimating conversion rates. There were actually a junior and a senior engineer. The junior engineer was just listening in, and the interview was dominated by the senior guy. It probably was partly my fault, but the senior guy asking the question was unable to communicate clearly what he was asking and eventually became preachy and arrogant. 3.) The chief architect asked a geometrical brain teaser (I assume to test my thinking process?) and then we had a chat about the company and primarily his initiatives. 4.) The director of data science asked standard management questions."
+"Senior Data Scientist at Centiment was asked..."," Describe the steps involved in creating a neural network"
+"Senior Data Scientist at Centiment was asked..."," Tell me the difference between the maximum margin classfier and the hyperplane"
+"Data Scientist at CKM Advisors was asked..."," How do you learn new skills?"
+"Data Scientist at Tapad was asked..."," What is your Masters GPA?"
+"Data Scientist at CKM Advisors was asked..."," Pick any problem out there and solve it using data."
+"Data Scientist at Loadsmart was asked..."," Interviews include concepts/questions about algorithms, Python, SQL, case study."
+"Data Scientist at Capital One was asked..."," Explain the bias-variance tradeoff."
+"Data Scientist at Point72 was asked..."," behavioral questions about location and fit"
+"Data Scientist at Xaxis was asked..."," Experience with logistic regression, data challenge on predicting impression probabilities - includes questions on regularisation."
+"Data Scientist at Unified was asked..."," Resume based. Regression, classifiers."
+"Data Scientist at First Data was asked..."," The first round interview was a mixture of behavioral and a case interview. It was very conversational and casual, and the interviewer helped me with areas where I stumbled on the case. The case was a long one that tested math, strategy and innovative thinking."
+"Data Scientist at Tapad was asked..."," What is your Masters GPA?"
+"Junior Data Scientist at Bloomberg L.P. was asked..."," What is the probability for two un-parallel lines to intersect within a circle?"
+"Data Scientist at Qeexo was asked..."," Asked to build a predictive model for their acoustic based touch classifications. "
+"Senior Data Scientist at Spotify was asked..."," How can we deal with extreme values in data?"
+"Data Scientist at Integral Ad Science was asked..."," Write code to solve "
+"Data Scientist at Integral Ad Science was asked..."," We're trying to do ____. What do you see as the challenges here? How would you approach this problem if you were in charge of solving it?"
+"Data Scientist at Grubhub was asked..."," Explain gradient boosting decision trees. "
+"Data Scientist at Grubhub was asked..."," What do you mean by “fitting the residuals”?"
+"Data Scientist at Correlation One was asked..."," Basic machine learning"
+"Data Scientist at Grubhub was asked..."," Do you know what gradient descent is?"
+"Data Scientist at Grubhub was asked..."," How do random forests treat categorical variables?"
+"Data Scientist at Facebook was asked..."," the probability of getting a pair, a straight in 52 cards"
+"Data Scientist at Oscar Health was asked..."," Should the government fund space exploration?"
+"Data Scientist at Spotify was asked..."," Present a solution to a data assignment with a vague question."
+"Data Scientist at Spotify was asked..."," Hypothetical business questions related to Spotify's data."
+"Data Scientist at Capital One was asked..."," Interpret this ANOVA table."
+"Data Scientist at Capital One was asked..."," What is VIF (in regression output)?"
+"Data Scientist at Capital One was asked..."," Are false positives or false negatives more important?"
+"Data Scientist at Capital One was asked..."," How do you learn something new?"
+"Data Scientist at Municipal Credit Union was asked..."," if I would consent to a background and credit check"
+"Data Scientist at Capital One was asked..."," Describe a time you worked on a team."
+"Data Scientist at Capital One was asked..."," Difference between random forest and gradient boosted tree."
+"Data Scientist at Capital One was asked..."," What does regularization do?"
+"Data Scientist at Capital One was asked..."," Write pseudocode for map reduce"
+"Data Scientist at BlueMountain Capital Management was asked..."," how to compute median of lots (and lots of) data in 10 computers when it is costly to do big cross-computer calculations"
+"Data Scientist at Facebook was asked..."," If you implement a new feature to FB how would you measure the success"
+"Data Scientist at Facebook was asked..."," some sql question dealing with join func"
+"Data Scientist at Ellington Management Group was asked..."," This is the dataset that we are working on. Which aspects are you going to look at, and how?"
+"Data Scientist at Tapad was asked..."," The first round is about the machine learning knowledge, there are 2 interviewers from data science team and all of them are PhD. They ask me about my experience and projects on my resume. The question are very detail, and you need know very well about your project. They also introduce to me about what they do in the data science team. The second round is a coding interview. The interviewer ask me to write a specific class using python. I was not very familiar with the top programming, and the interviewer gave me an detail example and a lot of hints to guide me finish the process. The two rounds onsite interview and the interviewers are all very nice."
+"Data Scientist at 1010data was asked..."," probability question machine learning algorithm"
+"Data Scientist at Nielsen was asked..."," How would you get all the unique values from an attribute in R?"
+"Data Scientist at Commonwealth Bank of Australia was asked..."," I was asked 2 programming questions and a predictive modeling question, and had to present on a whiteboard to the interviewer."
+"Associate Data Scientist at First Derivatives was asked..."," Why first derivatives? What do you know about us? What was your favorite college course and why? "
+"Data Scientist at Wink was asked..."," sketch a sudo code to check if Sudoku (the game) is Right."
+"Data Scientist at Cablevision Systems was asked..."," What is random forest?"
+"New Graduate Data Scientist at Visa Inc. was asked..."," 4 MCQs"
+"New Graduate Data Scientist at Visa Inc. was asked..."," 3 coding challenge"
+"Data Scientist at CKM Advisors was asked..."," Questions on the logic of my code in the data analytics homework exercise. Heavy focus on defending my recommendations by referencing my analysis. "
+"Data Scientist at SITO Mobile was asked..."," Experience with geospatial data"
+"Data Scientist at Gust was asked..."," data challenge using postgresql"
+"Data Scientist at Clover Health was asked..."," Questions on probability"
+"Data Scientist at IBM was asked..."," Easy questions"
+"Data Scientist at CKM Advisors was asked..."," NDA"
+"Data Scientist at iDigerati was asked..."," What is my weakness?"
+"Data Scientist at Quicken Loans was asked..."," Why QL?"
+"Data Scientist at TIBCO Software was asked..."," Something like ""select which attitude describes you in the following situation"""
+"Data Scientist at UnitedHealth Group was asked..."," Simple programming questions to verify that you do know programming"
+"Principal Data Scientist at Via Transportation was asked..."," Why do you want to work here?"
+"Data Scientist at Google was asked..."," Explain a probability distribution that is not normal and how to apply that."
+"Data Scientist at J.P. Morgan was asked..."," Find Intersection of 2 lists, describe various machine learning terms. Many algorithms questions."
+"Data Scientist at 1010data was asked..."," What my goals are."
+"Data Scientist at Fulcrum Analytics was asked..."," Machine Learning and Python basics. Missing values, imputing, and some aptitude math questions."
+"Data Scientist, Analytics at Facebook was asked..."," 2 Questions for the half hour interview, one about the product sense, like how to detect the fake information input from the user. Another one is the SQL problem"
+"Data Scientist at Dataiku was asked..."," What's your expectation for this internship position?"
+"Data Scientist at J.P. Morgan was asked..."," Talk about your projects."
+"Data Scientist at Accenture was asked..."," tell me about the time when you have solved a conflict at work."
+"Data Scientist at OnDeck was asked..."," Typical algorithm questions - if a string is a palindrome, etc."
+"Data Scientist at FlightSafety International was asked..."," What is the difference between a concrete class and an interface?"
+"Data Scientist at Amazon was asked..."," tell me about lstm"
+"Data Scientist at Slalom was asked..."," Some machine learning question"
+"Applied Data Scientist at ThetaRay was asked..."," Describe a time when you were unsuccessful at achieving a goal."
+"Data Scientist at BD was asked..."," How did you know about BD?"
+"Data Scientist at Facebook was asked..."," It's a phone interview about technical question. About how to generate all possible friendship given four tables with the ""request"", ""accept"",""reject"", and ""remove"" information."
+"Data Scientist at Con Edison was asked..."," write a for loop to reverse a string by using python"
+"Data Scientist at Con Edison was asked..."," find best func(x,y) given x and y"
+"Data Scientist at Con Edison was asked..."," find second highest salary employee by using sql"
+"Data Scientist at Google was asked..."," Describe the process of data analysis?"
+"Data Analyst/Data Scientist at Stash Invest was asked..."," There were no technical questions aside from the pandas coding question I mentioned above."
+"Data Scientist at White Ops was asked..."," Work I mentioned in my resume"
+"Data Scientist at Time Inc. was asked..."," Define an algorithm for checking if a string is a palindrome"
+"Data Scientist at Caserta was asked..."," Inspect a dataset to find potential issues."
+"Data Scientist at Munich Re was asked..."," Talk about past projects and experience"
+"Data Scientist at Sabre was asked..."," What is your most successful things? Why you choose Sabre? "
+"Senior Data Scientist at AIG was asked..."," Random questions irrelevant to data science"
+"Senior Data Scientist at DigitalOcean was asked..."," - Diagram a solution for a multi-modal document prediction task. - Explain overfitting in the context of various algorithms (SVM, random forest, neural network) and techniques to mitigate it (very technical on the details) - Explain how you would deal with class imbalance or other sources of bias in a training data set (again, very technical on the details) - Explain how you would use a Docker container to make a deployable machine learning service using Kubernetes (wanted many devops details). - Have you used a pipeline automation tool like Luigi? Have you used monitoring tools like PagerDuty?"
+"Financial Data Scientist at Bloomberg L.P. was asked..."," Newton's method to calculate the square root"
+"Data Scientist at Simulmedia was asked..."," General experience questions "
+"Data Scientist at BuzzFeed was asked..."," Tell us a project you'd do at Buzzfeed."
+"Data Scientist at Aptus Health was asked..."," I was presented with a problem that often comes up in the data, and how would I address it. "
+"Data Scientist at Fractal Analytics was asked..."," Inference questions"
+"Data Scientist at Integral Ad Science was asked..."," Data analysis, usual coding and stats questions"
+"Data Scientist at Bitly was asked..."," We're interested in tracking users that may appear in our systems via many device ID's. That is, someone may click a Bitly link from a mobile device, and at another time, that same user may click another Bitly link from a laptop at home. We only have these device ID's in addition to sites visited and other metadata, and we would like to attribute these actions to the same user across devices. How would you approach this problem?"
+"Data Scientist/Consultant at EY was asked..."," Most questions are related to experience/skills mentioned on resume. For data science, machine learning and statistical techniques are of interest and questions related to these should be expected."
+"Data Scientist at Munich Re was asked..."," What are the projects you have done in your current company?"
+"Associate Data Scientist at 360i was asked..."," Asked about previous experience"
+"Data Scientist at Zocdoc was asked..."," general experience and machine learning"
+"Data Scientist at Goldman Sachs was asked..."," How would you prove that the square root of two is irrational?"
+"Data Scientist at Applecart was asked..."," would you sign a NDA and do our coding challenge?"
+"Client Data Scientist at DemystData was asked..."," 1) When would you use simple Train\Test\Validation Vs K-Cross Validation? 2) How would you implement a predictive model for a specific used case in the banking industry (like Fraud Detection, Credit Risk etc)? "
+"Data Scientist at Quantilus was asked..."," We were asked about our previous project."
+"Data Scientist at Argo Group was asked..."," The more technical questions were based on projects I had worked on and how I approached them."
+"Data Scientist at Integral Ad Science was asked..."," describe your solution to the assignment"
+"Data Scientist at Rang Technologies was asked..."," Q: Would you be okay with me increasing your work experience?"
+"Data Scientist at OnDeck was asked..."," Algorithm questions, basic statistics, questions about my background"
+"Data Scientist at Rang Technologies was asked..."," Q: Tell me about yourself."
+"Data Scientist at Rang Technologies was asked..."," Q: Tell me about yourself."
+"Image Data Scientist at Merck was asked..."," Question about my research and published papers."
+"Data Scientist at Rang Technologies was asked..."," What is your salary expectation, what is your experience blablabla"
+"Data Scientist at Etsy was asked..."," How do you know if the data are overfitted?"
+"Data Scientist at Etsy was asked..."," How would you evaluate your binary classifier?"
+"Data Scientist at Zillow was asked..."," What analytics skills do you have?"
+"Data Scientist at Bayer was asked..."," What are you a good fit?"
+"Research Lead/Data Scientist at Spotify was asked..."," How would you detect anomalous behavior? How would you generate profiles of users? The questions came up in the course of conversation though (i.e. in response to things I had said)"
+"Data Scientist at Quora, Inc. was asked..."," What features do you like about Quora. How can you improve Quora."
+"Data Scientist at M Science was asked..."," A balanced mix of questions about my equity markets experience, programming and statistics ability"
+"R&D at Philips was asked..."," Behavioral questions, and a few about past projects in school related to the job. Interviewer was very friendly."
+"Data Scientist at 1010data was asked..."," How would you know if a grocery store is out of stock on one specific item based looking at the total transaction database of the store?"
+"Data Scientist Phd at Etsy was asked..."," How would you evaluate your binary classifier? "
+"Data Scientist at Pulse Data was asked..."," A lot of probability questions"
+"Data Scientist at CKM Advisors was asked..."," Walk through the idea and code behind a technical project that you've worked on."
+"Data Scientist Phd at Etsy was asked..."," How do you know if the data are overfitted? "
+"Data Scientist Phd at Etsy was asked..."," What’s Bayesian Logistic Regression?"
+"Data Scientist at Cambia Health Solutions was asked..."," resume questions and follow ups"
+"Data Scientist at Affirm was asked..."," Does an ROC curve change if you square the outputs used to generate it?"
+"Data Scientist at Rang Technologies was asked..."," Describe a situation when you used SAS."
+"Data Scientist at Komodo Health was asked..."," Walk through a bayesian probability question theoretically then code in Python. "
+"Data Scientist at Facebook was asked..."," What function in R allows you to select rows>"
+"Data Scientist at Bluecore was asked..."," Build a personalized recommendation model."
+"Data Scientist at ActionIQ was asked..."," data science challenge"
+"Data Scientist at Nirvana Enterprises was asked..."," I was given different scenarios and asked, how would I solve it or approach the business problems as ""Data Scientist"". He helped me understand bigger picture and different possible approaches to solve the problem efficiently. "
+"Data Scientist at AltX was asked..."," What's your employment status?"
+"Data Scientist at Facebook was asked..."," What is data science?"
+"Data Scientist at YOP IT Solutions was asked..."," More into Python coding"
+"Data Scientist at Stash Invest was asked..."," Explain difference between bagging vs boosting"
+"Data Scientist at Squarespace was asked..."," If we were to take our product international, what would you do?"
+"Data Scientist at McKinsey & Company was asked..."," Previous experiences (very detailed) and why I'd like to join McKinsey"
+"Data Scientist Internship at Annalect was asked..."," What project do you want to participate in any company?"
+"Data Scientist at Bloomberg L.P. was asked..."," general questions about machine learning and C++"
+"Senior Data Scientist at Transfix was asked..."," Describe the responsibilities etc. of your last role as if you were onboarding a new person."
+"Senior Data Scientist at Lumos Labs was asked..."," take home assignment"
+"Data Scientist at AdTheorent was asked..."," 1st data scientist: The wind question (below) but I had to go very in depth about why I would choose Monday or Tuesday and had to actually write out the equations and explain why which one is better. I also had a question about shuffling cards and I had think of a really efficient way to do it. The second interview had a lot of questions about Python and R like about what the data structures are and their definitions. I think I also had some questions about linear regression as well. "
+"Data Scientist at CKM Advisors was asked..."," Given an ambiguous data set and corresponding business problem, how would I generally go about solving it, i.e. what steps would I first take?"
+"Data Scientist at Aetna was asked..."," How would you prevent unnecessary ER visits."
+"Data Scientist at Dataminr was asked..."," questions about the project. algorithm questions. High level interviews with executives."
+"Data Scientist at Facebook was asked..."," SQL question: given a table of interaction between users (user_a | user_b | day), find number of users who had more than 5 interactions yesterday (assume there is only one unique interaction between a pair of users per day). Product Question: A user satisfaction survey was conducted for two groups of facebook users (each with 50 k sample size). Group1: who had enabled certain login security features Group 2: who had not enabled these security features. It was found that user satisfaction with group1 was 30% lower than with group 2. Why do you think so? Comment on how the survey was conducted?"
+"Data Scientist at Bowery Farming was asked..."," The take-home consisted of a dataset and some open-ended questions. It was pretty fun in the end, and seemingly representative of standard problems one would encounter in the day-to-day."
+"Data Scientist at AIG was asked..."," How to tell the difference between classifiers. what is the difference between Lasso and Ridge regression?"
+"Data Scientist at Capital One was asked..."," What's the distribution looks like of the number of daily trips in NYC"
+"Data Scientist Engineer at BeenVerified.com was asked..."," Describe your experience at Company X"
+"Data Scientist, AWS Professional Services at Amazon was asked..."," Tell me about a time you took a risk and it didn't work out"
+"Data Scientist at Nielsen was asked..."," Why Nielsen?"
+"Data Scientist at Nielsen was asked..."," What is your favorite statistical test?"
+"Data Scientist at Palantir Technologies was asked..."," Fairly straightforward stats question requiring knowledge of Bayes rule. Also a programming question involving some kind of sorting (can't remember the exact details)."
+"Client Data Scientist at DemystData was asked..."," How would a financial institution determine if an applicant makes more or less than $50k/yr"
+"Data Scientist at BlueMountain Capital Management was asked..."," How to solve a linear regression on trillions of rows with very limited memory?"
+"Data Scientist at BlueMountain Capital Management was asked..."," How to use distributed system to calculate median number of terabytes of data?"
+"Data Scientist at BlueMountain Capital Management was asked..."," How to find trading signals from prescription documents (with drug names)? And how to deal with typo in drug names?"
+"Data Scientist at Nielsen was asked..."," Do you use R or R Studio?"
+"Data Scientist at Hackensack Meridian Health was asked..."," What are your major projects and what were your learnings from them?"
+"Data Scientist at Nielsen was asked..."," What do you do on the weekends?"
+"Data Scientist at Facebook was asked..."," How would you measure or determine someone to be your best friend on Facebook? What would this look like and how would you approach it?"
+"Data Scientist at Facebook was asked..."," Determime fraction of active users messagong at least 5 people in a given day."
+"Data Scientist at Tapad was asked..."," describe recent data science project & probability question"
+"Data Scientist at Enlitic was asked..."," project from resume, some coding exercise. "
+"Data Scientist at Blueprint Health was asked..."," No specific professional questions."
+"Data Scientist at Via Transportation was asked..."," Tell me what features we can use to evaluate driver performance and how would you model them."
+"Data Scientist at Quartet Health was asked..."," Review past projects"
+"Senior Data Scientist at SG Analytics was asked..."," They asked what packages I've used, such as Pandas, and how I've used them. They also asked about my project experience. The last question I could not answer at all - it was about how I would approach a problem for which analytics were not yet developed, and how I would know to be satisfied with the result for the client."
+"Senior Data Scientist at SG Analytics was asked..."," Have you worked with APIs?"
+"Data Scientist at The Wine Group was asked..."," No question was difficult, everything from the resume"
+"Data Scientist at Integral Ad Science was asked..."," Questions on probability, algorithms, map reduce, machine learning, ad tech related problems."
+"Data Scientist at Quartet Health was asked..."," They asked me to walk through a machine learning problem and poked a lot of wholes to make sure I knew what I was doing."
+"Data Scientist at Facebook was asked..."," Why Facebook? What is probability of pulling a different color or shape card from a shuttled deck of 52 cards? A business sense question on how to improve a service and a sql query question given a table."
+"Data Scientist at KPMG was asked..."," How do you work with a data set that has 500 features?"
+"Data Scientist at Applecart was asked..."," The exercise was to involved predicting election outcomes utilizing various data sets. What is the best evaluation criteria for predicting probabilistic outcomes of your model?"
+"Data Scientist at Quartet Health was asked..."," They asked me to whiteboard a coding problem."
+"Data Scientist at Quartet Health was asked..."," They asked some data engineering questions."
+"Data Scientist at Quartet Health was asked..."," They asked me to solve a brainteaser on the white board while they returned emails and didn't engage with me at all."
+"Data Scientist at McKinsey & Company was asked..."," All interviews (except for the HR screening) comprised 2 parts. A personal experience question, where you had to get into details about previous projects you had worked on (in data science). And then the 2nd part was always a case study (typically with an analytics twist)."
+"Data Scientist at FINRA was asked..."," 1. Prove why Pearson's Correlation is between -1 and 1. 2. Linear regression, multiple linear regression, brainteasers, programming exercise"
+"Data Scientist at KP was asked..."," where do you see yourself in 5 years"
+"Data Scientist at Via Transportation was asked..."," What would you do to measure the efficiency of the upper east side?"
+"Professional English Faculty at Institute of Language Management was asked..."," Why you have chosen this company to work?"
+"Data Scientist at AKUNA CAPITAL was asked..."," Complex Algorithm and Object oriented question which ibviously took lot more time than they gave"
+"Data Scientist at Aetna was asked..."," Extrapolate how many blood testing centers there are in the United States. "
+"Data Scientist at Capital One was asked..."," To finish a data challenge without a deadline given."
+"Data Scientist at Yelp was asked..."," How to evaluate the features classifying spams and emails."
+"Data Scientist at J.P. Morgan was asked..."," did you code machine learning algorithms from scratch or used a library?"
+"Data Scientist at J.P. Morgan was asked..."," The two interviews had a similar format. It started with an overview of my education, experience and past projects. Asked specific and technical details on the implementation of a neural network algorithm. I was then asked to solve small coding problems via collabedit: 1. Find the intersection of two arrays of integers. 2. Find the nth prime number 3. Use a binary search to find the index of a given value within an array of integers. 4. An SQL exercise to extract various specific items of a table. For the coding exercises I could choose the language of my choice. Complexity was discussed and the interviewer always pushed me to find the least demanding solution in terms of time complexity."
+"Data Scientist at Xerox was asked..."," Detailed Machine learning algorithms and pattern recognition methods with their objective functions"
+"Data Scientist at Dataiku was asked..."," why i wanted this job"
+"Data Scientist at OnDeck was asked..."," Technical test of probability simulation and a variety of Python and SQL questions in person."
+"Research Lead/Data Scientist at Spotify was asked..."," They sent a link to some publicly-available data and told me to tell them something interesting about it."
+"Junior Data Scientist at Allstate was asked..."," If a jar has X red balls and Y blue balls, what is the minimum number of draws that is necessary to ensure that you have one ball of each color?"
+"Data Scientist at 1010data was asked..."," How would you explain recursion to someone who didn't understand com sci?"
+"Data Scientist at Oscar Health was asked..."," Debate question: ""Are state lotteries a good idea?"" Coding question: Easy-level leet-code style problem --- using a list of start and end-time tuples representing room occupancies, determine if there are conflicts and how many."
+"Data Scientist at McKinsey & Company was asked..."," Writing an algorithm for time series data"
+"Data Scientist at Dynamit was asked..."," how do you handle difficult co-workers"
+"Data Scientist at Cablevision Systems was asked..."," Explain the KNN algorithm"
+"Data Scientist at Audible was asked..."," Talk through how you would build a recommendation system."
+"Data Scientist at Audible was asked..."," Why Audible? "
+"Data Scientist/Machine Learning at Manthan was asked..."," Describe role and responsibilities on one project"
+"Data Scientist at Jet was asked..."," functional programming"
+Senior Data Scientist at SparkCognition was asked...," academic-like questions where you could just look up the answer. just memorize a thing or two about the basic algos like neural nets, random forests, svm, linear regression. that satisfies their data scientists."
+Data Scientist at SparkCognition was asked..., Basic resume work. 
+Data Scientist at IBM was asked...," Typical interview questions, very basic statistics questions, and general ML questions (not on specific models) and coding questions that are similar in style to HackerRank"
+Data Scientist at Apple was asked..., Why Apple? 
+Data Scientist at Indeed was asked...," (As it can be inferred from the description, this stage was never reached.)"
+Data Scientist at SparkCognition was asked...," Describe several clustering algorithms. In sampling with replacement for decision trees, what portion of samples are left-out of booststrap samples?"
+Data Scientist at IBM was asked..., Describe precision and recall.
+Data Scientist at BlackLocus was asked...," The questions were only classical statistics, like t-test, linear programming, SQL and brain teasers. All questions are basic. And of course some behavior questions."
+Data Scientist at SparkCognition was asked..., How do you explain Random Forrest to a non-technical person?
+Data Scientist at Main Street Hub was asked..., They sent a dataset for binary classification modeling. 8 variables without their meaning at all.
+Data Scientist at SparkCognition was asked...," Machine learning techniques, couple of coding questions. "
+Data Scientist at Spiceworks was asked...," The typical question of finding which number in an increasing set is missing. For example, the natural numbers or even numbers, etc."
+Data Scientist at SparkCognition was asked...," ML Algorithms, Stats"
+Data Scientist at Indeed was asked..., onsite coding using their laptop
+Data Scientist at Indeed was asked...," You can look at the other interview reviews for the specific questions. Mine was very similar, although specific questions may differ. "
+Data Scientist at Stanley Black & Decker was asked...," I was asked some specific SQL coding questions. I have been using NoSQL lately, so these were the most difficult questions for me. "
+Data Scientist at XO Group was asked...," I was asked point blank about how I would approach a rather tricky and complicated problem. This turned out to be the project in development at the time, so it was a nice opportunity to whiteboard and for the interviewers and I to feel each other out. Collaboration and ability to think on one's feet were obviously important."
+Data Scientist at Indeed was asked..., Lots of coding questions and data analysis tasks.
+Data Scientist at Indeed was asked...," bayes probability，leetcode easy，hypothesis test unsupervised learning, recommendation system"
+Data Scientist at Indeed was asked...," Make sure to study recommendation engines, since this is the bread and butter of their work. They don't really have any interest in your work experience, like many tech interviews. "
+Data Scientist at Indeed was asked...," Python programming tests, data visualization analysis, etc"
+Data Scientist Engineer at Cerebri AI was asked...," Q. Walk me through your current project, along with broad brush-stroke view of the code. Q. How many files your code is separated in, any OOP in it?"
+Data Scientist at BlackLocus was asked..., They asked basic statistics and probability questions. Nothing very difficult.
+Data Scientist at SparkCognition was asked..., How's an LSTM gate different from a vanilla RNN?
+Data Scientist at SparkCognition was asked..., I was asked about algorithms that would be most suitable for various problems.
+Data Scientist at SparkCognition was asked..., How does the random forest algorithm work?
+Data Scientist at Cerebri AI was asked...," After a company overview, to which areas might you apply a frequentist approach, to which might you apply a Bayesian approach? "
+Data Scientist at General Motors was asked..., What are you working on right now? Why are you interested in this position? Do you have any questions for me?
+Data Scientist at Dell was asked..., what is dimensionality reduction? what is indexing in database etc
+Data Scientist at Indeed was asked...," Statistics / probability, ML / classification, SWE"
+Data Scientist at IntegraFEC was asked..., Mainly about past experience and how I had used analytics. Also behavioral. There was also a python program round where I was told to write and describe the pseudo code.
+Data Scientist at Indeed was asked...," The initial phone screen asked very basic interview questions (Why are you looking for a new job? Why Indeed? What's your background?). The data science project I was given consisted of a large dataset on salaries (about 200k rows). I was asked to use machine learning to predict salaries and share my code as well as predicted outcomes. Additionally, nine questions were asked about the project. These questions asked about the models used, the reasoning behind them and the error rates. Overall, the data science project was complicated as it was a large data set to run complex models on."
+Entry Level Data Scientist at IBM was asked..., What's the difference between R and Python
+Data Scientist at SparkCognition was asked..., They gave a data science assignment.
+Data Scientist at IBM was asked..., Technical: Topics on machine learning I have done in the past such as why I used a Monte Carlo to help with stress testing an algorithm for FDA approval or what programming language I used for creating an ensemble algorithm. The interviewer was a future colleague and extremely sharp. Managerial: mainly my listening and asking questions only to understand better.
+Data Scientist at Cerebri AI was asked..., Why did you choose that particular machine learning algorithm for your project?
+Staff Data Scientist at Booz Allen Hamilton was asked..., Describe how K-means works.
+Data Scientist at Massachusetts General Hospital was asked...," Given an existing set of purchases, how do you predict the next item to purchase of a new basket?"
+"""Unwanted"" Data Scientist at QuantumBlack was asked..."," HackerRank Data Scientist test: First question gave an option to code in R, while the other two didn't. "
+"""Unwanted"" Data Scientist at QuantumBlack was asked...", Phone Interview: Going over your resume and how you fit in the position
+Data Scientist at Wayfair was asked..., Different case study of analyzing customer behavior. 
+Data Scientist at Palantir Technologies was asked..., Why do you want to work for Palantir?
+Senior Data Scientist at Adelphic was asked..., Can you tell more in detail about your projects listed on the resume?
+Data Scientist at Tessella was asked..., Asked me what my salary expectations were.
+Data Scientist at CiBO Technologies was asked..., They did not ask me any technical questions
+Data Scientist at Wayfair was asked..., Attribution model
+Data Scientist at Wayfair was asked..., Recommendation system
+Data Scientist at Rue Gilt Groupe was asked..., How to analyze a data set?
+Data Scientist at Rakuten was asked..., Write a function that finds the MST of a directed graph.
+Data Scientist at Pluralsight was asked...," Questions about work, experience with python coding challenge was based on an algorithm that they already use to predict question and user rankings "
+Data Scientist at Wayfair was asked..., Why do you think it is a Data Science project?
+Data Scientist at Celect was asked...," Each panel member told me about what their role was, asked about my background and then there was a brainteaser type problem that I was to solve on the whiteboard."
+Data Scientist at Wayfair was asked..., Choose list variable given probability of each variable
+Data Scientist at Olympus Corporation of the Americas was asked..., What is your favorite project?
+Data Scientist at Indigo (MA) was asked..., Why do you want to leave your current position?
+Data Scientist at AstraZeneca was asked..., nothing unexpected just what i have done and question about the CV
+Data Scientist at Rifiniti was asked..., Outline an algorithm to find if two rectangles overlap. How would you compute the area if they overlap?
+Data Scientist at CiBO Technologies was asked..., They gave coding assessment and ask statistic questions
+Data Scientist at True Fit Corporation was asked..., 1.Pandas 2. SQL 3.Statistics 
+Senior Staff Data Scientist at athenahealth was asked..., What is k means
+Data Scientist at True Fit Corporation was asked..., 1.Pandas 2. SQL 3.Statistics 
+Data Scientist at Facebook was asked..., A table has a column with full names(e.g. 'Tom Hardin'). write a python code to get distinct first names(i know its super easy in sql)
+Data Scientist at Walmart was asked...," A person using search engine to find something, you know nothing about her/him, nothing at all, how do you come up with am algorithm that will predict what she/he needs after the user types only a few letters ?"
+Data Scientist at Boston Consulting Group was asked...," Describe a project that you have particular interests in, explain what you did and the results."
+Data Scientist at Intel Corporation was asked...," Experiences in the field of data science, what is the most challenging aspect of what I do now, A few general data science questions."
+Data Scientist at Wayfair was asked..., Are you willing to move?
+Data Scientist at Wayfair was asked...," In a condescending tone, why do you think you can be a data scientist?"
+Data Scientist Infrastructure at Facebook was asked...," Write a program in Python to calculate tax if Salary and Tax Brackets are given as list in the form [ [10000, .3],[20000, .2], [30000, .1], [None, .1]]. You don’t know in the beginning how many tax brackets are there. You have to test for all of them."
+Data Scientist at Wayfair was asked...," Open ended business cases on marketing, e-commerces (clickthrough rates, personalization, etc). CS question on python dictionaries."
+Data Scientist at Christa McAuliffe Regional Charter Public School was asked..., Tell us about yourself? And do you have any questions for us?
+Data Scientist at Amazon was asked...," SVM, how to choose a model, and how to determine if a model is better than another."
+Data Scientist at Salesforce was asked..., Go through how to contruct a recommendation system.
+Data Scientist at Wayfair was asked...," Case interview, node graph, modeling"
+Decision Science Analyst & Data Scientist at Weather Analytics was asked..., What can you bring to the company?
+Data Scientist at Wayfair was asked..., Go deep into my projects. Explain why I chose particular methods and solve particular questions in the projects
+Data Scientist at McKinsey & Company was asked..., Describe a situation where you showed leadership.
+Computational Data Scientist at GNS Healthcare was asked...," The take-home question itself was an interesting machine learning question, perhaps not too difficult (I had not looked at this material for a long time so I had to look up different methods to figure out which one was being referenced). I thought it was posed in an interesting way and some thought had gone into not revealing too much. "
+Junior Data Scientist at Civis Analytics was asked..., Basically an open ended case where you had to narrate your analytical approach to answer several business questions. Follow up on regularization
+Data Scientist at SAP was asked...," How would you design a recommendation system for amazon customers, considering that a single customer may use many devices to logon to a single account?"
+Data Scientist at Wayfair was asked..., Which deep learning technique would you use for video compression?
+Data Scientist at Liberty Mutual Insurance was asked..., Give an example when you help others in a course project.
+Data Scientist at TripAdvisor was asked..., Details about random forest that applied on regression problem.
+Data Scientist at Disruptor Beam was asked..., Have you played video game xyz? (Apparently this was a requirement not stated on job description)
+Data Scientist at McKinsey & Company was asked..., Tell me about a time you disagreed with others.
+Data Scientist at McKinsey & Company was asked..., Go through one of your project in detail.
+Data Scientist at Cogito was asked..., I was asked to talk about my research and how it relates to their product...given the lack of expert knowledge in their team i have to update them on even most basic approaches in the field
+Data Scientist at Vertex Pharmaceuticals was asked..., Talk about projects
+Data Scientist Co-op at Novant Health was asked..., Do you know what regular expressions (regex) is? 
+Data Scientist at Wayfair was asked..., Some case questions
+Data Scientist at Amazon was asked..., They focus a lot on their leadership principles and your resume
+Data Scientist at Deloitte was asked...," Why consulting, why Deloitte?"
+Data Scientist at Philips was asked..., Ask questions about the dataset you have worked on and how to reduce overfitting. They prefer applicants that can build machine learning models from scratch. All questions were based on the submitted resume. 
+Data Scientist at SUNRISE FUTURES was asked..., Resume and technique questions
+Data Scientist at Nanigans was asked...," They will show you a formula which could be part of many statistics and expect you to state with authority that it is a logistic regression, when it is not actually the logistic regression equation, it is a part of it...."
+Data Scientist at Hopper was asked..., Explain the model you built and what else would you want to do with more time?
+Data Scientist at Profitect was asked..., describe what random forest is and the difference between boosters
+Data Scientist at Cignifi was asked..., Look through/explore this csv.
+Data Scientist at Amazon was asked..., Tell me a time when you did not agree with your advisor. 
+Data Scientist at Kensho Technologies was asked..., How is the bias and variance in Random Forest and Gradient Boosting Tree?
+Data Scientist at Twitter was asked..., Why did you apply for this position?
+Software Engineer/Data Scientist at Wayfair was asked...," Business case -- they presented me an e-mail and their problems with recommend, and suggested ways I might improve it. Also a 'lightning' round of mathematical, statistical, and programming questions that was a little all over the place (and not tailored to your resume), and done in a binary yes/no fashion. "
+Data Scientist at Klaviyo was asked..., Data aggregation and significance testing
+Data Scientist at Wayfair was asked..., What are potential weaknesses of that pricing strategy?
+Data Scientist at TripAdvisor was asked..., a/b testing
+Data Scientist at Uber was asked..., Why Uber?
+Data Scientist at Infinite Analytics was asked..., Q : Customer recommendation based algorithms
+Data Scientist at Philips was asked..., describe MCMC process
+Data Scientist at DataRobot was asked...," about your projects, previous company projects and resume based."
+Senior Data Scientist at Rapid7 was asked..., What kinds of tools do you use?
+Data Scientist at dataxu was asked...," AB testing, one classification problem, one budget allocation problem."
+Data Scientist at QuantumBlack was asked..., 1. Walk me through a data science project you recently completed. 2. Tell me how you would solve this data science problem. 
+Data Scientist at TripAdvisor was asked...," SEM, Recommendation system , ranking algorithms"
+Data Scientist Consultant at Management Solutions was asked..., Where do you see yourself in 10 years?
+Data Scientist at Panjiva was asked..., feature selection and PCA
+Data Scientist at Panjiva was asked..., How did you handle bag of word. 
+Data Scientist at Microsoft was asked..., From technical interview: Describe how gradient boost works. From final interview: Describe a time when you had to convince a client to follow your strategy.
+Data Scientist at The Broad Institute was asked..., The coding questions were versions of basic algorithms that most people with a programming background should be familiar with.
+Data Scientist at Panjiva was asked...," 1. Questions about designing SQL schemas, queries, optimization 2. What is my familiarity with various languages, development environments, etc.?"
+Junior Data Scientist at BitSight was asked..., How would you design our product if you were starting from scratch.
+Data Scientist at SolarWinds was asked..., Data transformations. Python coding. Modelling. 
+Data Scientist at Rubicon Project was asked..., Write a pseudo-code to generate a series of locations for a knight piece (with standard chess move) on a dialing pad (0-9) after a certain number of moves.
+Data Scientist/Engineer at nuTonomy was asked..., Random easy typical google-able puzzles. 
+Data Scientist Co-op at Novant Health was asked..., How good are you with SQL?
+Data Scientist at Rubicon Project was asked...," We roll a die, and have the option to roll once or twice more, how can we maximize the number that we finally get (just the last number matters)? And what is the mean of this number?"
+Data Scientist at MITRE was asked..., Tell me about a project you're proud of.
+Data Scientist Co-op at Novant Health was asked..., Generic Data science questions mostly on the projects that i did. 
+Data Scientist at Rubicon Project was asked...," How does a software sort numbers? What does ""HAVING"" do in SQL? How does MapReduce work?"
+Data Scientist Co-op at Novant Health was asked..., Why do you think your skills are a good fit for us?
+Data Scientist at Rubicon Project was asked...," Explain your PhD research (they asked many questions in detail, mostly things that were relevant to their projects.)"
+Data Scientist at Partners HealthCare was asked..., Tell me something about machine learning and deep learning 
+Data Scientist at Wayfair was asked..., Match furniture in a scene given query pictures plus computer vision basics.
+Data Scientist at Wayfair was asked..., Link different devices of the same user plus machine learning basics.
+Data Scientist at Wayfair was asked..., Did you have much machine learning experience during your academic career?
+Senior Data Scientist at Boston Consulting Group was asked..., Technical case interview which is a mix of modelling skills + classical case interview structure
+Data Scientist at McKinsey & Company was asked..., They asked to talk more about one of my Data Science Project and explain step by step how I got to the final product
+Data Scientist at Wayfair was asked..., A Leetcode problem about arrays.
+Data Scientist at TrueMotion was asked..., Sign the non-disclosure form
+Data Scientist at Kronos Incorporated was asked..., Mostly Behavioral questions. 
+Data Scientist at dataxu was asked...," Take-home test: statistical questions, machine learning questions, coding exercise (simulation)."
+Data Scientist Infrastructure at Facebook was asked...," Q1. SQL Given tables: employees(id, unixname,team,role,days_since_started) projects(id,name,....) commits(id,file_path,proj_id,auth_id,timestamp) Find the number of unique employees per project per month? Q2. Imagine you have a CSV file: john_doe,android,ios,infra bob_law,is,backend jane_doe,frontend ------------------------------ Containing,for each employee, a list of projects he/she works on Write a script/function/else that reads data from CSV file and creates a data structure that stores, for each project, a list of employees who work on it."
+Data Scientist at Apptopia was asked..., Complete a coding challenge. 
+Data Scientist at FirstFuel Software was asked..., How would you find a change in time-series data?
+Senior Data Scientist at Rue Gilt Groupe was asked...," Explain times in which you had to collaborate with multiple different teams within a corporation and how you handled it. Explain your last project in detail - what were some of the obstacles, what made you choose the solution that you had come up with. Have you ever created a software application that utilizes data science and if so, fully explain the implementation (whiteboard). A few SQL questions."
+Data Scientist at Everbridge was asked..., Real time case study
+Data Scientist at Wayfair was asked..., Q: How would you evaluate the effectiveness of various ads?
+Senior Data Scientist at CarGurus was asked..., How to avoid dead lock
+Data Scientist at Biogen was asked..., tell me about youeself
+Voice Data Scientist at Sonos was asked...," A time when you wanted to find more data for a given issue, how did you handled it?"
+Data Scientist at Disruptor Beam was asked..., Tell me what you did in your Ph.D.?
+Data Scientist at Disruptor Beam was asked..., How would you handle things if you make a mistake? Do you tell the client about the mistake?
+Senior Data Scientist at CarGurus was asked..., What is heap
+Data Scientist at Wayfair was asked...," Given the available data, walk me through how you would value a marketing campaign from a data science perspective."
+Data Scientist at Tala was asked..., What's your challenging projects?
+Lead Data Scientist at SHYFT Analytics was asked...," Very informal, no technical question because no one is technical there. No one has any idea what predictive analytics model are. I read someone here said that the culture at this company is very Google like, which i think was quite an insult to anyone worked at Google. I worked in household companies in pharma and healthcare so i had high standards. I know some startup that have brilliant minds working for them, this is far from that. All they have done is write sql and put the data on a dashboard which is called descriptive analytics if you want to do predictive analytics you are on your own, you would be the only person working and since their strengths is on descriptive analytics or merging real world evidence data from various sources majority of the projects they get are in that realm so don't expect a steady job as a data scientist here. And don't be scared by the name VP. Everyone in this company is a VP because they only have one person working in that domain, consulting ,strategy ,etc all are VP !"
+Data Scientist at Kensho Technologies was asked...," Timeseries, multi-class classification"
+Data Scientist at Booz Allen Hamilton was asked..., Tell me about your background and how you got into data science.
+Data Scientist at Wayfair was asked..., Mostly case based questions intended to see my ability to reason through the problems the team was facing at the time of my interview. Also some more technical coding questions.
+Data Scientist at Wayfair was asked..., Basic time series stuff
+Data Scientist at McKinsey & Company was asked..., Data science knowledge. Case Studies. PEI.
+Data Scientist at Wayfair was asked...," Describe a project you worked on outside work/school How would you explain your project in layman terms, and also to someone with a tech background What other companies are you interviewing with"
+Data Scientist at Hopper was asked..., What would you do given all of Hopper's data?
+Data Scientist at Wayfair was asked..., Which features would be important in assigning a customer to particular customer segment?
+Data Scientist at Wayfair was asked..., Tell me about a project that you worked on. Use their whiteboard if you can.
+Senior Data Scientist at MathWorks was asked..., My background research.
+Data Scientist at TrueMotion was asked..., Go through the code and thought process. Explain the code one by one.
+Data Scientist at Vertex Pharmaceuticals was asked..., talk about the projects you have done before
+Data Scientist Algorithms at Wayfair was asked..., Describe in detail a data science project you were involved in and what was your contribution. How well did that project perform. 
+Data Scientist at FirstFuel Software was asked...," Technical questions covering machine learning, statistics, some math, general questions about previous work history"
+Data Scientist at Wayfair was asked..., What kind of job will make you excited to go to every morning? How do you handle unbalanced dataset? What evaluation method will you use?
+Senior Data Scientist at Pixability was asked...," Bayes type question, updating likelihood. Brush up on your Bayesian methods."
+Data Scientist at Civis Analytics was asked...," Analyze, explain, and present accompanying reading material."
+Data Scientist at Accenture was asked..., Data modeling and data science questions based on provided data sets. 
+Data Scientist at Uptake was asked..., Tell me about yourself. What insights do you get from the given dataset?
+Data Scientist at CNA was asked..., How is the process of building a model to predict loss 
+Data Scientist at Civis Analytics was asked..., The most difficult part of the process was repeatedly trying to contact the hiring manager. 
+Data Scientist at ActiveCampaign was asked..., How would you deal with imbalanced classes in a machine learning context? What kind of data structure would you use in R to store key-value pairs?
+Junior Data Scientist at G2 Crowd was asked..., What is a novel application for our review data that might generate new business opportunities?
+Data Scientist at Tempus Labs was asked..., Whiteboard: How do you set up and model this survival analysis problem using hypothetical patient data?
+Data Scientist at Crowe was asked..., describe bias–variance tradeoff
+Data Scientist at Brad's Deals was asked..., Build a predictive model using iPython and a sample data set
+Data Scientist at Brad's Deals was asked...," On a scale from 1 to 10, how would you rate your SQL skills?"
+Data Scientist at Allstate was asked..., Basic behavioral questions
+Data Scientist at Civis Analytics was asked..., the meaning of the hyperparameters in different sklearn models
+Data Scientist at Opex Analytics was asked...," As you would expect for a data scientist position, they ask a series of technical questions on predictive analytics and SQL."
+Data Scientist at Crowe was asked..., Explain in detail key machine learning concepts.
+Data Scientist () at Allstate was asked..., 1. Coding (pseudo code) 2. Logic questions
+Senior Data Scientist at Vivid Seats was asked..., Please share your data science experience. 
+Data Scientist at Civis Analytics was asked..., You have been tasked with creating a prediction for the outcome of the 2014 congressional elections. You are responsible for building your own dataset for this process.
+Student Assistant - Design at Consumer Reports was asked..., why do you think you are qualified for this position?
+Junior Data Scientist at Allstate was asked...," Taje a jar with stones of three colors, how many draws do you need to get two stones of the same color? Generalise to n colors, k stones. "
+Data Scientist at ActiveCampaign was asked..., What are my favorite ML algorithms which I am mathematically comfortable with? 
+Data Scientist at ActiveCampaign was asked..., Advantages and Disadvantages of Gradient Boosted Models. 
+Data Scientist at Honeywell was asked..., Nothing Hard. The interviewers do not even know your field for the most part. 
+Data Scientist at Uptake was asked..., Describe two projects you worked on. 
+Data Scientist at CME Group was asked..., How do you interpret this graph? 
+Data Scientist at Sears was asked..., Actually there were no serious technical questions. e.g. what optimization tools you are familiar with?
+Data Scientist at Vizient was asked..., Mostly technical questions related to your work experience and presentation given. Questions are straight and to the point. They need person with good presentation skills. Classical stat and machine learning problems.
+Data Scientist at KPMG was asked..., Case study based on some data graph.
+Data Scientist at Civis Analytics was asked...," How would you go about assessing whether insider trading is occurring, using the data of your choice?"
+Data Scientist/QA at Google was asked..., Some detailed statistical and optimization questions
+Data Scientist at Uptake was asked..., What projects do you do to keep up with the new data science technologies?
+Data Scientist at Uptake was asked..., Talk about a data science problem you worked on.
+Data Scientist at Avant was asked..., Knowledge about statistics and previous experience
+Data Scientist at American Family Insurance was asked...," Q: What is gradient descent? Q: What are the various ways to control overfitting? Q: What is the effect of increasing the number of neurons and number of layers on CNN performance? Q: What are the predictors of name entity tagging training data? Q: How does Batch Normalization help? Q: Why can't you use SVMs for image recognition? Q: How do you productionize your model? Q: A python related live coding question, to write a function to identify a correct sequence of a pattern of words? Honestly, why should there be a round with software engineers when I have no background of Computer Science? "
+Data Scientist - Low Latency at Citadel was asked...," Inorder tree traversal. Other programming related questions: decorator, generator; virtual destructor, how is map implemented, complexity to insert/search/delete in a tree, etc."
+Data Scientist at neighborhoods.com was asked..., We have problem X that needs to be solved by date Y. What is your overall strategy for addressing this problem?
+Data Scientist - Low Latency at Citadel was asked...," In a 52 cards game, you randomly draw 5 cards, then return 4 back to the dealer and you keep 1. The dealer will always know what card is in your hand. Can you tell me what strategy he used?"
+Data Scientist - Low Latency at Citadel was asked...," What is the population in Nigeria, can you give me a 95% confidence interval?"
+Data Scientist at Tempus Labs was asked..., Basic HR questions. Take-home dataset where you get to play around with it and see what results you can come up with.
+Data Scientist at Zurich North America was asked..., supervised learning problem on insurance data.
+Data Scientist - Low Latency at Citadel was asked...," I randomly pick a number from 1 to 100, how would you guess? What if you have prior knowledge that I pick a number that is hard to guess such as near 1 or 100?"
+Applied Data Scientist at Civis Analytics was asked..., How would you persuade a client of the usefulness of your analysis?
+Data Scientist at Brad's Deals was asked..., How to handle sparse data
+Manager at Nickelodeon was asked..., What is your management style?
+Data Scientist at Brad's Deals was asked..., How to use SQL
+Data Scientist at Conversant was asked..., The only technical question during on-site was imagine you have a fixed amount of money for investment during a given period of time. you wan to maximize the return at the end of the period but you do not know the market. What would be the best strategy?
+Data Scientist at Nielsen was asked...," Do you have experience with pandas, shell scripting,spark etc"
+Data Scientist at Nielsen was asked...," Explain the process, how you take your model into production from development stage"
+Data Scientist at Nielsen was asked..., What is your role in your data science team
+Data Scientist at EY was asked..., tell me about yourself
+Data Scientist at Vizient was asked..., Technical questions regarding machine learning algos. Describe how the RF algorithm functions? SVM? Can you talk to me about the bias-variance trade-off? How does RF handle the bias-variance tradeoff? What is a p-value? what is a z-score? Can you interpret the coefficient from a logit model (coefficient value is provided for you)? Interpret the Odds Ratio of this coefficient given the binary response. How do the betas get computed using OLS? How about for logistic regression? What is the difference between PCA and FA? Walk us through some of the model building projects you have worked on?
+Data Scientist at Civis Analytics was asked..., some machine learning/R packages that I've used.
+Data Scientist at KPMG was asked..., How do you manage your time if you are given 12 weeks to complete a project?
+Data Scientist at Ecolab was asked...," tell us a time at your old job where you faced a particularly large obstacle or challenge , and how did you overcome it? "
+Data Scientist at State Farm was asked..., Use Python to predict the loan approval late for a customer. Use two different machine learning techniques to do this. Write a review on the method used to solve the problem comapring the two techniques.
+Data Scientist at Nielsen was asked..., Do you know what we are doing at Nielsen?
+Junior Data Scientist at Civis Analytics was asked..., If you could get data on anything for a data science project what would it be?
+Data Scientist at BMO Harris Bank was asked..., describe the relevant projects
+Data Scientist - Low Latency at Citadel was asked...," 16p + 1 = x^3, and p is a prime number. What is x?"
+Data Scientist at AlixPartners was asked..., What are you looking for in the future at this company?
+Applied Data Scientist at Civis Analytics was asked..., Case interview about how to solve a business's employee churn problem using data science.
+Data Scientist at AKUNA CAPITAL was asked..., Create a class that contains a list of numbers where you will be periodically asked to insert new numbers. Get the minimum. Get the maximum. Get the second last etc.
+Data Scientist at Tempus Labs was asked...," You want to create perfect solutions, but reality is often not perfect - how do you cope with that?"
+Data Scientist at CNA was asked..., what's the meaning of p-value and confidence interval.
+Data Scientist at XSELL Technologies was asked..., Describe which machine learning library are you most familiar with? What are the first 5 machine learning algorithms you would apply to this problem and why? What are the tradeoffs.
+Data Scientist at Deloitte was asked...," Technical Questions: SQL, statistics, feature engineering, some supervised and non-supervised models, and data visualization. Make sure you can explain previous projects well (problem formulation, technologies used, feature selection, models used, insights gained). Behavior Questions: Why Deloitte/this role? Where do you see yourself in X years? How do you pick up new technologies/skills? Some scenario-based questions."
+Credit Audit Data Scientist & Analyst at BMO Harris Bank was asked..., Describe a technical problem and how you solved it.
+Senior Data Scientist at NCSA Next College Student Athlete was asked..., Do you have experience with machine learning?
+Senior Data Scientist at NCSA Next College Student Athlete was asked..., Do you have experience leading a team?
+Senior Data Scientist at NCSA Next College Student Athlete was asked..., What is your management style?
+Senior Data Scientist at NCSA Next College Student Athlete was asked..., What was the last big project you were involved in?
+Data Scientist at CME Group was asked..., How would you interpret this graph? 
+Data Scientist at IBM was asked..., Data Science projects and techniques applied
+Senior Data Scientist at NCSA Next College Student Athlete was asked..., What is the most complex project you have done?
+Data Scientist - Consultant at Clarity Insights was asked..., What's your favorite machine learning algorithm? 
+Data Scientist at Capital One was asked..., Tell me about the time you influenced someone
+Data Scientist at Uptake was asked..., Have you used Tensorflow and other deep learning tools? 
+Data Scientist at Vizient was asked..., What's the difference b/t linear and nonlinear regression?
+Data Scientist at Uptake was asked..., Walk me through your project that you submitted. 
+Data Scientist at Uptake was asked..., hypothesis
+Senior Data Scientist at Civis Analytics was asked..., They asked a sampling question though my data challenge did not have anything to do with sampling surveys. They asked about how to create a sample from an unknown population given the current sample. 
+Data Scientist at Uptake was asked..., marketing case
+Data Scientist/AI Practitioner at Avanade was asked..., Explain Bias-Variance tradeoff. How do you prevent over-fitting? Walk me through your resume. 
+Data Scientist at Uptake was asked..., Why did you code things a certian way.
+Data Scientist at Uptake was asked..., How to find outliers. what could you bring into the company.
+Data Scientist at W.W. Grainger was asked...," Then asked me about what is Java's class, and I explained to him, he said that even I did a small project I would give the right answer..... I think first, every one might have a different answer, and second, even I gave a wrong answer, you can correct it. But donot say something that make the candidates feel that you are insulting him! Totally shame."
+Data Scientist at Civis Analytics was asked..., I didn't expect the essay questions about communicating data science concepts on the timed exam.
+Data Scientist at W.W. Grainger was asked...," The Senior DS asked about PCA, I explained how to do it, and also you can use SVD to achieve PCA. Then he is lost and asked how does it related to PCA. Then I explained, and then he said that it is hard to understand from phone, and SVD could do PCA. Why then you need an explanation of how to use SVD in PCA then. "
+Data Scientist at ActiveCampaign was asked..., Where is Naive Bayes useful?
+Data Scientist at Groupon was asked...," normal distribution, binomial distribution, etc.."
+Data Scientist at Uptake was asked..., Explain a project I had worked on as well as metrics for measurement. Also asked about dealing with missing data.
+Data Scientist at Precima was asked...," Assumptions of linear regression, survival analysis. What is VIF and how to calculate it? Basic clustering question. linear programming. optimization 3 brain teaser questions: 1. burn two ropes. 2. bacteria double it self every minute, 100 minutes to fill a cup for one bacteria, how long does it take for two bacteria 3. 10 machines produce coins, one of them is broken. how to use one scale to find out which with only one measure. "
+Data Scientist at Upwork was asked...," Choice of model for the given dataset, why would you use R over Python or viceversa. Questions about probability theory."
+Data Scientist at Uptake was asked..., Generic HR questions and some questions about my latest Kaggle contest.
+Data Scientist at AbbVie was asked..., What is your managerial style?
+Data Scientist at Envoy Global was asked..., Standard questions about past experience. Some technical SQL questions but nothing hard.
+Data Scientist at Civis Analytics was asked..., Questions based on autoencoder. Focus on deep learning models.
+Applied Data Scientist at Civis Information Technologies was asked..., Why are you interested in data science? Why Civis Analytics? Recent relevant work/internship projects? Do you have a portfolio?
+Data Scientist at Conversant was asked..., How to detect a robot
+Data Scientist at Conversant was asked...," Set up an optimization problem, minimizing the cost while keep the marketing goals met."
+Applied Data Scientist at Civis Analytics was asked..., Q: Standard Statistical questions that can be solved through R or Python (restricted to share actual questions)
+Data Scientist at Uptake was asked..., What do you do during your spare time?
+Junior Data Scientist at Aisle Rocket Studios was asked..., How many windows are there in NYC? They didn't expect a number but more about the thought process.
+Data Scientist at Dow was asked..., Tell me the data structure you have learned?
+Data Scientist at Blue Health Intelligence was asked..., I was asked about my work history and career interests.
+Data Scientist at Uptake was asked..., Which R function would you use to extracting a sub string from a string?
+Data Scientist at Civis Analytics was asked..., What is one of the world’s biggest problems and how would you help solve it using big data?
+Data Scientist at ActiveCampaign was asked...," Background, motivations, and etc."
+Data Scientist at Uptake was asked..., When do we use logistic regression models?
+Data Scientist at Uptake was asked..., What is the output of logistic regression? How do you detect outliers?
+Data Scientist at Uptake was asked..., How to you detect outline?
+Data Scientist at Groupon was asked...," I signed an NDA, so I can't give much details, but one interviewer asked me a very open ended question that involved how I would create/design/implement a certain algorithm from start to end."
+Research Scientist/Engineer III (Data Manager) at University of Washington was asked..., Would you be comfortable just being a programmer?
+Research Scientist/Engineer III (Data Manager) at University of Washington was asked..., Are you comfortable with this level of pay cut?
+Senior Data Scientist at MAANA was asked...," A lot of questions about my presentation. One silly question is what number is not equal to itsself (NaN). Come on, could you please focus on the high-level picture for the company?"
+Data Scientist at LoyaltyOne was asked...," Linear regression, Bayesian statistics"
+Senior Data Scientist at Amazon was asked...," if the model is not perfect, how would you like to select the threshold so that the model outputs 1 or 0 for label?"
+Data Scientist at Salesforce was asked..., One interviewer asked me how I would build a classifier to predict the outcome of NFL games in real time. Great question.
+Senior Data Scientist at Amazon was asked...," If you can build a perfect (100% accuracy) classification model to predict some customer behavior, what will be the problem in application? "
+Senior Data Scientist at Amazon was asked...," Then, he asked what if the cost of false positive is 0?"
+Data Scientist at Zillow was asked..., Flexible questions about their current model and ways to improve stuffs.
+Data Scientist at Zillow was asked..., explain how your code is efficient in terms of processing speed
+Data Scientist at T-Mobile was asked..., Tell me a time when you did not agree with your manager
+Data Scientist at Globys was asked..., Apparently the paper analyzing the abalone dataset was not what they wanted -- but I am unsure about what would be a more appropriate response to this sort of thing.
+Data Scientist at Placed was asked..., Walk through how you would map/reduce a process. 
+Data Scientist at Microsoft was asked..., How to compute an inverse matrix faster by playing around with some computational tricks?
+Entry Level Data Scientist at HCL Technologies was asked..., What kinds of data analysis did you perform?
+Data & Machine Learning Scientist at Amazon was asked...," Asked about Ito's formula as stochastic calculus is on the resume, although it's totally unrelated to the job. "
+Data Scientist at Microsoft was asked...," All interviewers asked about my projects. So i had to tell the exact same thing 5 times . It is such a waste of time. I am not sure what are they trying to assess . It seems like the hiring process is like a random coin toss. They didn't ask even a single question apart from my project. Also, to me it appears Microsoft has so many people who have been with the company for 15+years. May be there are really smart but they didn't appear to be energetic. My only advice would be not all teams are good at microsoft. Few teams i interiviewed in past had really smart and energetic people. "
+Data Scientist at PayScale was asked...," Efficient string manipulation, NLP. "
+Data Scientist at Zillow was asked...," A few technical coding questions, and lots of background questions. An unexpected one was 'What can you bring to Zillow?'."
+Data Scientist at Zillow was asked...," Technical Phone Screen - Questions about the take home test, experience and Coding Fibonacci series. I was able to answer that. On-site 1 & 2. White-boarding for KNN classifier, what is euclidean distance, questions around zestimate, how would one predict the sale price, how will it be different for rural and urban areas(try going through all the blogs of zillow) , what can be the techniques to remove outliers, how can you detect anomalies in the data, modeling technique to superimpose nearest house prices on the missing data of house price. 3&4 - Lots of questions on cross-validation, grid-search, splitting your test data, validation data, metrics to evaluate, probability questions 5 - Cultural fit"
+Data Scientist at Amazon was asked..., what is linear regression?
+Data Scientist at Amazon was asked..., What features can we use to detect fraud transactions?
+Data Scientist at Placed was asked...," Statistics, unsupervised methods, whiteboard coding. Surprisingly, they did not ask about SQL."
+Data Scientist at Amazon was asked..., How to deal with missing data of categorical features?
+Data Scientist at Amazon was asked..., What features can we use to detect fraud transactions for new customers for which we do not have a lot of information about?
+Data Scientist at Amazon was asked...," write a code in R/SQL: Given a table with three column, (id, category, value) and each id has 3 or less category (price, size, color). Now, how can I find those id's for which the value of two or more category matches to one another? For eg: ID1 (price 10, size M, color Red), ID2 (price 10, Size L, Color Red) , ID3 (price 15, size L, color Red) Then the output should be two rows: ID1 ID2 and ID2 ID3"
+Data Scientist at Amazon was asked..., How to deal with missing data of customers who are new?
+Data Scientist Fellow at Insight Data Science was asked..., Give me a high-level introduction of your research
+Data Scientist at Amazon was asked..., Just basics of machine learning and past projects. 
+Senior Data Scientist at Rover.com was asked...," If you are comparing booking rate, what test would you use? What is the function to write that in R or python?"
+Data Scientist at Uber was asked..., Q: transportation network problem
+Data Scientist at Trupanion was asked...," predict cancellation or claim amount with the given datasets, not moved further."
+Data Scientist at Microsoft was asked...," You're about to get on a plane to Seattle. You want to know if you should bring an umbrella. You call 3 random friends of yours who live there and ask each independently if it's raining. Each of your friends has a 2/3 chance of telling you the truth and a 1/3 chance of messing with you by lying. All 3 friends tell you that ""Yes"" it is raining. What is the probability that it's actually raining in Seattle? "
+Data Scientist at Capital One was asked...," Given a dataset, how would you model it to extract a particular information. How would you architect the pipeline."
+Data Scientist at Facebook was asked..., Python coding: load data one row by one row using Hash table.
+Data Scientist at Facebook was asked..., What is the difference between Z test and T test?
+Data Scientist at Facebook was asked..., How would you improve the product?
+Data Scientist at MAANA was asked..., how to solve imbalance data issues in Machine learning?
+Senior Data Scientist at Rover.com was asked..., Tell me about a time when you took a risk without having enough information.
+Data Scientist at Microsoft was asked..., What would you do to summarize a twitter feed?
+Senior Data Scientist at Rover.com was asked..., How would you write this objective function?
+Senior Data Scientist at Rover.com was asked..., What kind of time series model would you use for this?
+Data Scientist at Walt Disney Company was asked..., Why should we hire you?
+Data Scientist at Microsoft was asked..., Describe one data science project that you've worked on.
+Data Scientist Analytics at Facebook was asked...," Calculate various statistics from two tables: one for advertisers, and one for ads"
+Data Scientist at RealSelf was asked...," In three minutes, tell me a thing that can potentially impress me."
+Data Scientist at Coupang was asked..., Code reservoir sampling 
+Senior Data Scientist at Microsoft was asked...," Describe an ROC chart, Describe a decision tree,"
+Data Scientist at Microsoft was asked..., Solve some coding problems
+Senior Data Scientist at Zillow was asked..., Why Zillow?
+Data Scientist at Amazon was asked...," They asked probability question: 1) The probability that item an item at location A is 0.6 , and 0.8 at location B. What is the probability that item would be found on Amazon website. 2). I have table 1, with 1million records, with ID, AGE (column names) , Table 2 with 100 records with ID and Salary then the interviewer gave me the following SQL script SELECT A.ID,A.AGE,B.SALARY FROM TABLE 1 A LEFT JOIN TABLE 2 B ON A.ID = B.ID + WHERE B.SALARY > 50000 ( HE ASKED TO MODIFY THIS LINE OF QUERY) How many records would be returned? 3. Give a csv file with ID, and Quantity columns, 50million records and size of data is 2gig, write a program in any language of your choice to aggregate the QUANTITY column."
+Data Scientist at Microsoft was asked..., Design and optimize an elevator question
+Data Scientist at PayScale was asked...," General business problem questions, some coding questions, and a modeling method question."
+Data Scientist at Amazon was asked..., What is the most advanced query you've ever written?
+Data Scientist at Amazon was asked..., 1. Cumulative sum of top 10 most profitable products of the last 6 month for customers in Seattle. 2. Assumptions about logistic and linear regression 3. Explain colinearity 4. Step by Step of a machine learning algorithms 
+Data Scientist at BitTitan was asked..., Given the data set identify the most isolated location’s Location Id for each geographical location.
+Data Scientist at Zillow was asked..., Run me through the operation of a random forest estimator (in detail).
+Data Scientist at Redfin was asked..., What are the most important things to you in a new workplace and why?
+Data Scientist at T-Mobile was asked..., Tell me a time when you had a problem with the data
+Data Scientist at T-Mobile was asked..., How did they celebrate Halloween at your company
+Data Scientist at OfferUp was asked..., Have you used Offerup?
+Senior Data Scientist at Heal (CA) was asked..., How do you add value to your current role?
+Junior Data Scientist Role at Allstate was asked..., explain random forest
+Data Scientist at Comcast was asked..., Let's go step by step through your resume
+Junior Data Scientist at Allstate was asked...," Generic questions about behavior and how you work. Project management philosophies, etc. Why Allstate?"
+Data Scientist at Microsoft was asked..., Do you know l1 norm or l0 norm
+Junior Data Scientist at Allstate was asked...," If you have a bag of jelly beans with a large number of two different colors, whats the minimum you need to pick out to guarantee that you have at least 2 of the same color? Then the question in the general case."
+Data Scientist at Salesforce was asked..., What is the computational complexity of finding the most frequent word in a document?
+Data Scientist at Microsoft was asked..., Discuss how to randomly select a sample from a product user population.
+Junior Data Scientist at Allstate was asked...," The case study presents real data and they ask questions about how you would approach the modeling process. Understand imbalanced class classification, model evaluation, cross validation, and logistic regression, and perhaps more sophisticated techniques."
+Junior Data Scientist at Allstate was asked...," Coding challenges that focus on understanding very basic recursive functions, floating point numbers rounding (e.g. exact 1/2 vs. inexact 1/3), coding a very simple KNN algorithm, and writing a SQL query which involved aggregating and joining tables."
+Data Scientist at Versive was asked..., Fit a model to data
+Data Scientist at MAANA was asked...," ML questions like regression, MLE, MAP"
+Data Scientist at Amazon was asked..., Reasonable data science questions.
+Data Scientist at Moz was asked...," Compute fibonacci numbers, find equilibrium point."
+Data Scientist at Coupang was asked..., Linked list.
+Data Scientist at Amazon was asked...," i. Tell me about the supervised machine learning techniques that you know about? ii. If you have a customer and want to decide whether they will “buy today” or “not buy today” and you know 1. where they live, 2. their income, 3. their gender, 4. their profession, how would you define a machine learning algorithm. iii. How does a neural network with one layer and one input and output compare to a logistic regression. iv. For a long sorted list and a short (4 element) sorted list, what algorithm would you use to search the long list for the 4 elements. v. How would the algorithm above scale. vi. Given an unfair coin with the probability of heads not equal to .5. What algorithm could you use to create a list of random 1s and 0s. "
+Data Scientist at Liberty Mutual Insurance was asked..., How long have I used R...Some basic statistical problems
+Data Scientist at Amazon was asked..., Why Amazon?
+Senior Data Scientist at Avvo was asked...," Questions covered from SQL, text mining, to stats modeling. LOL believe it or not they staring this opening from January 2015 or maybe earlier, and currently they are still interviewing for this position! You may consider more before you decide to play this game."
+Data Scientist at Microsoft was asked...," How to builds ads model, basic algorithms."
+Data Scientist at Textio was asked..., How would your approach to the take-home machine learning problem change if model explainability was equally if not more important than prediction quality?
+Data Scientist at Atlas Informatics was asked..., basic code exercise + design / algorithm exercise related to current technical challenges (quite vague)
+Data Scientist at RootMetrics was asked..., How would I approach a problem if I was asked to use a technique I hadn't heard of before?
+Data Scientist at Indeed was asked..., N/A
+Senior Data Scientist at PayScale was asked...," Given activity logs from the product, what features would you build to predict churn?"
+Senior Data Scientist at PayScale was asked..., Explain what is an ROC curve.
+Data Scientist at Amazon was asked..., Basic questions related to time series modeling.
+Data Scientist at Microsoft was asked..., The steps for data wrangling and cleaning before applying machine learning algorithms How to deal with unbalanced binary classification
+Principal Data Scientist at Microsoft was asked..., Tell me about how you handled a conflict at work with another team member.
+Principal Data Scientist at Microsoft was asked..., Describe the role to me.
+Data Scientist at Microsoft was asked..., Why do you choose Microsoft?
+Data Scientist at Nordstrom was asked..., How would you go about predicting categorical responses? 
+Data Scientist at Microsoft was asked...," Experiment Design, A/B testing"
+Senior Data Scientist at Zillow was asked...," Compute median absolute error and percent of estimates within 5%, 10% and 20% of the sales price."
+Senior Data Scientist at PayScale was asked..., Explain what is target leakage.
+Data Scientist at Microsoft was asked..., Definition of variance
+Data Scientist at Microsoft was asked..., How to measure distance between data point?
+Data Scientist at Microsoft was asked...," code this problem in Python, code this in C++ / C#, code this in R, code this in SQL, code this in Hadoop "
+Data Scientist at Zillow was asked..., Describe an example of how you created a working predictive model. Be detailed.
+Data Scientist at Amazon was asked..., How to do treat colinearity? How do you inspect missing data and when are they important? Similar questions in data analysis.
+Data Scientist at Expedia Group was asked..., Nothing unexpected. I'd say the questions are easier that what I had in the bay area.
+Data Scientist at Microsoft was asked..., Find the maximum of sub sequence in an integer list.
+Data Scientist at Amazon was asked..., technical coding: navigating a binary tree phone interview: business questions
+Data Scientist at Microsoft was asked..., How to perform a series of calculations without a calculator and your logic behind the steps.
+Data Scientist I at Nordstrom was asked...," Why should we hire you? [Superficially this seems confrontational, but it's really more of a softball opportunity to sell yourself; and also frankly it's a good and fair question for a candidate.]"
+Data Scientist II at Amazon was asked...," I signed an NDA, but be VERY comfortable with their leadership principles."
+Data Scientist at Indeed was asked..., Sample k items uniformly at random in a streaming fashion from a list of unknown length.
+Data Scientist at Indeed was asked...," How would you design a ML model for Zillow's Zestimate? (This was more of a conversation than a question, many subquestions working through different stages from data collection, feature selection, training, validating, implementing, and updating)"
+Data Scientist at Indeed was asked..., Merge two sorted lists.
+Data Scientist at Microsoft was asked..., Simple probability questions that dealt with bayesian equations
+Data Scientist at Microsoft was asked...," Explain the bias variance tradeoff,"
+Data Scientist at ProCogia was asked...," Easy normal data science questions, SQL syntax questions."
+Data Scientist at Microsoft was asked...," What are the ROC curve and the meaning of sensitivity, specificity, confusion matrix"
+Data Scientist at Groupon was asked..., Tell us about a recent project where you used machine learning techniques
+Data Scientist at Amazon was asked...," We need to sign an NDA, this means the high level questioning above is it."
+Data Scientist at Microsoft was asked..., Difference between box plot and histogram
+Data Scientist at Amazon was asked...," SQL merges joins, how will you apply machine learning to a business case, explain the algorithm and why you chose it, how have you applied amazon's leadership principles to real life scenarios Compensation offered was ridiculously lower than what a decent company would offer for DS profiles. Interviewing was a waste of time. Needless to say I declined the offer."
+Data Scientist at Microsoft was asked..., How do you detect if a new observation is outlier? What is bias-variance trade off ? 
+Machine Learning Data Scientist at Amazon was asked...," what is the recenly project you have finished, which machine learning methods and approach you are using to achieve the goal"
+Data Scientist at Uber was asked..., More on Resume/ projects and work experience if you have.
+Senior Data Scientist at Microsoft was asked..., Q: how would you deal with a categorical feature with high cardinality? Q: describe a machine learning project you're proud of Q: pick a machine learning algorithm of your choice and describe it to me
+Data Scientist at Philips was asked...," What is precision/recall ratio, what is SVM, What's your previous experience of machine learning"
+Data Scientist at Yammer was asked...," You are compiling a report for user content uploaded every month and notice a spike in uploads in October. In particular, a spike in picture uploads. What might you think is the cause of this, and how would you test it?"
+Senior Data Scientist at Glassdoor was asked...," How would you test if survey responses were filled at random by certain individuals, as opposed to truthful selections?"
+Data Scientist at Facebook was asked...," You're about to get on a plane to Seattle. You want to know if you should bring an umbrella. You call 3 random friends of yours who live there and ask each independently if it's raining. Each of your friends has a 2/3 chance of telling you the truth and a 1/3 chance of messing with you by lying. All 3 friends tell you that ""Yes"" it is raining. What is the probability that it's actually raining in Seattle?"
+Data Scientist at Facebook was asked..., Write a function that takes in two sorted lists and outputs a sorted list that is their union.
+Data Scientist at Square was asked..., How do you test whether a new credit risk scoring model works? What data would you look at?
+Data Scientist at Counsyl was asked..., When is a good day for you to start that coding challenge?
+"Data Scientist, Analytics at Facebook was asked...", What teams are you interested in at Facebook?
+Senior Data Scientist at Entelo was asked...," I was given a Data set which had id, position_id and resume_title. I had some junk data , which needs to cleaned up and they expect you to do it onsite while two people watch you doing it. Felt like a ridiculous interview ( people watching you ) what you type , if you google for a command or not. I felt that they are not smart people thats why their interview process is like that. I wouldn't work there ever. "
+Data Scientist at BloomReach was asked...," How do you find out trending queries/topics? How do you test a website feature i.e. given a set of webpages and few changes, how will you find out that the change works positively?"
+Data Scientist at Ancestry was asked..., Coding round: Java String manipulation. DM/ML questions: a few about ensemble methods. A few about various classifiers and my knowledge about how and where to use various techniques 3rd coding: Solving a maze. Finding shortest path.
+Data Scientist at Guavus was asked..., Big data related question. Hadoop system. Top K record selection. External merge sort. Very basic JAVA questions: anonymous class. Implement some function. 
+Data Scientist at HERE Technologies was asked..., Give an hour long presentation on something you've done.
+Data Scientist at Square was asked...," (The interview drew a hypothetical histogram of number of purchases per user.) There are a lot of users that make a small number of purchases, and few users that make a large number of purchases. So the histogram is peaked near zero and has a tail off to the left. Based on this, what do you expect the plot of average revenue per user to look like?"
+Data Scientist at Lyft was asked..., As a part of a bigger question: &#034;How do you draw a uniform random sample from a circle in polar coordinates?&#034;
+Senior Data Scientist at Natera was asked...," Imagine you have N pieces of rope in a bucket. You reach in and grab one end-piece, then reach in and grab another end-piece, and tie those two together. What is the expected value of the number of loops in the bucket?"
+Data Scientist at Uber was asked..., What are the assumptions of linear regression?
+Data Scientist at Uber was asked..., What is stationary signal?
+Data Scientist at Yelp was asked..., Mid-level coding/algorithm questions; ask you to explain the projects you've worked on.
+Data Scientist at Demandforce was asked..., How do you approach a project?
+Data Scientist at Indeed was asked..., Fill out a survey. This was sent after telling me that they would not go through with application because they had high volume of high quality applicants. 
+Data Scientist at Counsyl was asked..., What is it about this position that interests you?
+Data Scientist at Facebook was asked..., What is probability of getting one pair of card from 52 deck of cards? How would you improve work hours?
+Data Scientist at Uber was asked..., Tell me about a past data science project that you've worked on.
+Data Scientist at Facebook was asked...," Conditional probability problem(choosing doors with people inside), definition of confidence interval and statistical significance."
+Data Scientist at Facebook was asked...," 3 SQL questions based on dummy data on Ads. How will you write a query to calculate ROI, then per source etc. Simple group by and subqueries. Just need to keep in mind your join conditions."
+Data Scientist at Mapbox was asked...," Open-ended questions, Exploratory analysis and Inferential analysis with ML modeling."
+Data Scientist at Slack was asked..., How would you prioritize which country to expand Slack to for furthering the International effort?
+Data Scientist at Facebook was asked..., How will you analyze if launching stories is a good idea? What data would you look at?
+Infrastructure Data Scientist at Facebook was asked..., Table joins - basically the only thing they care about here
+Data Scientist at Facebook was asked..., Difference between FB and Twitter graphs. How will you define a metric that measures skewness of the network.
+Infrastructure Data Scientist at Facebook was asked..., Use python built in package to manipulate csv data
+Data Scientist at Uber was asked...," The interviews, as I recall: (1) Someone from finance department, covering collaboration w/ members outside of the core group. (2) Hiring manager asked questions around behavioral and problem solving approach; critical thinking; fit for team and group. (3) Product manager asked questions on product intuition and product impact. Being able to connect the problems you’re solving back to the business. Are you able to communicate with a non-technical audience. Some questions about metrics. (4) Coding -- one data manipulation question using Python or R. Could have used SQL to answer it as well. One algorithm/data structure question which honestly isn't really relevant to what someone w/ a statistical modeling background does, but seems to be included these days nonetheless. (5) Data science interview -- met with data scientist team leader who asked questions regarding how to define a given data science problem, what kind of metrics to use, models you'd consider using to answer such questions, etc. Some of the questions were experimental in nature, others were more machine-learning-esque. Of the latter category, would have been beneficial to at least be aware of online learning techniques and perhaps some time series models given the temporal nature of the data. (6) Interview with person not on the same team as the group I interviewed with. This person was supposed to ask me to explain my research and projects and experience according to the recruiter, but wound up just asking me questions about their own work, unexpectedly."
+Data Scientist at Pocket Gems was asked...," explain P-value, Overfitting, AB test. "
+Data Scientist at Funding Circle was asked...," The manager asked me about my previous experience in data modeling. But it seems he also confused himself by some basic statistical concepts. I wanted to leave 30 mins into the interview. The senior analyst asked me about my experience in statistics, SQL, and what kind of environment I like or dislike. I gave her a quick example of a model I built, and she asked me how I handled imbalance. I was thinking and structuring my thoughts, but then she said we were running out of time and jump into SQL : ( She actually asked the most difficult questions. She also seems to be overwork, tired and unhappy. The partner team's manger focus on team collaboration. "
+Data Scientist at Facebook was asked...," They need a candidate who has a strong technical background with business analysis experience. Some questions were like how you determine a product success, scenarios that involve you to code/query using SQL/R/Python and analyze data sets"
+Data Scientist at Opendoor was asked..., Code the Game of Life
+Data Scientist at Twitter was asked..., Why do you want to work in Twitter?
+Data Scientist at Facebook was asked...," Due to the NDA I had to sign, I will not mention key things. I was asked questions that tested my knowledge about SQL, business sense, and probability/math."
+Data Scientist at C3 was asked...," Machine learning questions about Random Forests, Gradient Tree Boosting and ROC curves. Also more general questions around background, experience and motivation. "
+Data Scientist/Engineer at Pillow was asked..., SQL code
+Senior Data Scientist at Vungle was asked...," Interview covered some basic ML concepts, case study and SQL. How would you handle missing values, categorial of many levels, and some advertising case study with follow up questions .."
+Data Scientist at StubHub was asked..., What is a statistical method to control the number of features for large sparse matrices?
+Data Scientist at Second Measure was asked...," You look at your results, and see this: [insert whiteboarded plot]. What might be causing this? How would you confirm/deny your hypothesis?"
+Data Scientist at Box was asked..., How to sort a list? How to penalise seasonality and periods in a model?
+Data Scientist at Fitbit was asked...," There were a lot of brainstorming questions. From the brainstorming questions several more in-depth, technical questions were derived. One of the on-site interviews involves white board coding."
+Data Scientist at Lyft was asked..., What are the different factors that could influence a rise in average wait time of a driver.
+Data Scientist at Uber was asked...," How would you decide what version of Uber to use depending on the device and network? Given a random Bernoulli trial generator, write a function to return a value sampled from a normal distribution. What metrics are used in the matching algorithm between riders and drivers? What would you improve with the Uber app? "
+Data Scientist at Asana was asked..., what is a linear regression
+Data Scientist at LinkedIn was asked...," Given a random generator that produces a number 1 to 5 uniformly, write a function that produces a number from 1 to 7 uniformly or something like that."
+Data Scientist at Uber was asked...," Product based questions and how I use Machine learning to solve their business problems A/B testing questions MIP formulation question Decision Trees and Traditional ML algorithm questions High level metrics, Driver oriented metrics, Shipper side Metrics Experimentation questions"
+Data Scientist at 6sense was asked...," Takehome exam with very messy data that had very high cardinality. Even the hold out set may have categories that your train set has not seen yet. A lot of observation of the data is necessary. After that, you go on site and get 3 software coding interviews. Pretty heavy duty coding questions. E.g. find all possible ways to evaluate the multiplication of 4 numbers in a N by N matrix. Also, map reduce and deep recursion problem."
+Data Scientist at HERE Technologies was asked..., How to identify the missing values in a data set?
+Data Scientist at HERE Technologies was asked..., Where to use Median OR Mean?
+Data Scientist at Affirm was asked...," General questions related to variable selection, overfitting, insights, past experience, machine learning, data etc."
+Data Scientist at Twitter was asked..., Find the median of a large dataset
+Senior Data Scientist at Glassdoor was asked..., Resume and earlier projects' related questions
+Senior Data Scientist at Glassdoor was asked...," Questions around - Product intuition, Basic stats and model evaluation metrics, Probability and puzzles"
+Data Scientist at Applied Underwriters was asked..., Five things you look for in a company
+Senior Data Scientist at The League was asked..., If you were made the first data scientist at United Airlines where would you start?
+Data Scientist at Uber was asked..., Why Uber?
+Senior Data Scientist at Uber was asked..., Time series. Design of Experiments.
+Data Scientist at Facebook was asked...," There was a question about defining some engagement metric, and then a SQL question."
+Data Scientist at Formation was asked..., Where does the randomness come from for a random forest algorithm.
+Data Scientist at HERE Technologies was asked..., How to identify missing values in a data set?
+Data Scientist at HERE Technologies was asked..., Where to use Median? Mean?
+Data Scientist at Komodo Health was asked..., What is your favorite algorithm?
+Data Scientist at Banjo was asked..., Tradeoffs between CNNs and RNNs in the context of sequence modeling.
+Data Scientist at GitHub was asked...," Asked lots of questions about past work experience and habits, culture, goals, collaboration. Questions around product, metrics, A/B Testing, communicating results to non-technical coworkers. Also a couple of SQL questions."
+Data Scientist at Asana was asked...," The data challenge is pretty standard, give you a data set and let you build a predictive model and put together some insights. Phone and onsite interviews are all technical interviews. Some statistics (sampling, hypothesis testing, power calculation, etc.), some product sense (whether to launch some features, why some metric changed, etc.), also a CS-like question. "
+Data Scientist at Uber was asked...," Describe dynamic (""surge"") pricing & ways you can measure supply & demand."
+Data Scientist at Airbnb was asked..., Homework was an end-to-end product question. Pretty typical supply/demand balancing for a PaaS company with a lot of data columns to do various segmentations on. Needed to provide a presentation for a non-technical audience and then a technical appendix for the data crowd to build on top of your work.
+Data Scientist at Granular was asked...," Major emphasis on building very simple models quickly. Nearest neighbors, linear regression, some basic SQL-type queries."
+Data Scientist at Yelp was asked...," questions around product/metrics, A/B Testing, stats, ML"
+Senior Data Scientist at Twitter was asked...," Typical for more engineering focused Data Science. Lots of coding problems, a few ML and stats theory, a few applied ML questions, and some information retrieval and search questions. "
+Data Scientist at Indeed was asked..., Some Algorithmic questions followed by stats question. No SQL 
+Data Scientist at Lime was asked..., Difference between a Z test and a T test What is P-value Type -1 and 2 errors Product oriented questions SQL exercises coding questions
+Data Scientist at Affirm was asked..., Validate a model with given constraints (see above).
+Data Scientist at C3 was asked...," Questions on coding algorithms, machine learning and past experience with projects and internships"
+Data Scientist at Instacart was asked..., How might you have optimized parameters for this model differently?
+Data Scientist at Yelp was asked..., What features would you use to predict the number of likes on a review?
+Economist/Data Scientist at Glassdoor was asked...," How can Glassdoor use economic research to be more competitive, and to make more of an impact on job match?"
+Data Scientist at Datatron was asked...," How would you develop a model to predict ticket pricing? What features would you use? How do you deal with missing data, bad data, too much data etc. "
+Senior Data Scientist at Womply was asked..., How would you build a system to rank the potential of a large group of sales contacts?
+Junior Data Scientist at Dignity Health was asked..., How do you handle multiple missing data items?
+Data Scientist at Stitch Fix was asked..., What is your workflow for tackling a problem?
+Data Scientist at Kontagent was asked..., The technical problem solving. Extract data from SQL database and attempt to find differences between fraudulent and non-fraudulent internet purchases (unsupervised). 
+Data Scientist at Uber was asked...," coding/algorithm (leetcode medium level), statistics and probability, machine learning, deep learning, design of experiments, product knowledge, behavior questions"
+Data Scientist at Facebook was asked..., Common statistical and python related questions. 1) How do you proof that males are on average taller than females by knowing just gender or height. 2) What is a monkey patch 3) How do you get the count of each letter in a sentence
+Data Scientist at IBM was asked..., What do you know about Tensorflow?
+Data Scientist at Affirm was asked...," What are l_1 and l_2 regularization, and how are they different?"
+Data Scientist at Facebook was asked..., how do you solve business questions?
+Data Scientist at PhantasmaTech was asked..., How would you define and measure the predictive power of a metric?
+Data Scientist at Glassdoor was asked..., What are the advantages/disadvantages of different metrics for evaluating search results? (Metrics were provided and defined)
+Data Scientist at Yelp was asked...," If you had to propose a new Yelp feature, what would it be?"
+Data Scientist at Granular was asked..., An emphasis on rapid analysis and model development.
+"Data Scientist, Product Analytics at Facebook was asked..."," You're at a casino with two dice, if you roll a 5 you win, and get paid $10. What is your expected payout? If you play until you win (however long that takes) then stop, what is your expected payout?"
+"Data Scientist at Quora, Inc. was asked...", Write a function to return the best split for a decision tree regressor using the L2 loss. 
+"Data Scientist at Quora, Inc. was asked...", Write a function to return the best split for a decision tree regressor using the L2 loss. 
+Data Scientist at Euclid was asked..., Tell me a project you've done in data science and walk me through the process. 
+Data Scientist at Uber was asked..., Cant reveal the question. I can only say that they ask candidates to make incorrect assumptions about data.
+Data Scientist at Workday was asked...," Both of them are from Leetcode, which are (I think) pretty difficult to Data Scientist position, especially for the machine learning and statistical modeling background."
+Data Scientist at Origami Logic was asked...," Coding, Stats / Proba, Machine Learning, Product. "
+Senior Data Scientist at Salesforce was asked..., Explain specific Machine Learning algo/technique for non-technical people.
+Data Scientist at Roche was asked..., Resume related Questions
+Data Scientist at Roche was asked..., why Roche? Greatest achievement
+Data Scientist at Audi was asked..., Why did you use random forest and not a simpler classifier for one of the classification problems?
+Data Scientist at C3 was asked..., - What is machine learning? - Graph and matrix operation. - Linear regression theory and derivation.
+Data Scientist at Uber was asked..., How would you measure the performance of [some Uber business]? Modelling and optimization problems Advanced statistics
+Data Scientist at Opendoor was asked..., Anagram problem.
+Data Scientist at Eventbrite was asked..., How would you lay out a dashboard for event organizers
+Data Scientist at A9.com was asked...," How do you model, a very low probability event"
+Data Scientist at Dropbox was asked..., how would i go about up selling to a customer.
+Data Scientist at Airbnb was asked..., - Metrics creation - Metrics diagnostics - A/B testing - Tons of behavioral questions
+Data Scientist at Samba TV was asked...," Stats, ML, probability. Data Challenge. coderpad coding challenge"
+Data Scientist at Facebook was asked...," Nothing unexpected, mostly because they will tell you in detail what to expect in each interview. Coding on a collaborative text editor while doing a phone interview was new to me. I had a lot of typos, and syntax errors the first time I tried it. I'd recommend doing a practice run with a friend just so one gets used to the set up. "
+Data Scientist at Uber was asked...," - talk about a recent project that was particularly challenging and why - metrics to evaluation surge pricing algorithm - how to test whether version 1 or 2 of surge pricing algorithm is working better (divide drivers - how would you explain power to a product manager (non-stats) - basic modeling questions: cross-validation, training / test data, error metrics"
+Data Scientist at AltSchool was asked..., Talk about a data analysis project
+Data Scientist (Consultant) at Kforce was asked..., What my ideal job is
+Data Scientist at GREE International Entertainment was asked..., There is no very difficult question. Mostly general technical questions and mostly open discussion with no unique right answer.
+Data Scientist at C3 was asked...," Machine learning concepts, resume projects etc."
+Data Scientist at Zenefits was asked...," Background, a recent project"
+Associate Data Scientist at Eventbrite was asked..., They asked how I think through difficult problems by giving examples.
+Data Scientist at Thumbtack was asked..., What goes into the calculation of test duration?
+Data Scientist at Formation was asked..., I'm not going to say because the most difficult question was also the most fun to figure out.
+Data Scientist at Uber was asked...," there were 3 part, SQL which was very difficult for entry level.one part with R or Python programming, and Analysis"
+"Data Scientist, Analytics at Facebook was asked..."," How can we tell if two users on Instagram are best friends? (answer question) Ok, how can we use this algorithm in the product?"
+Data Scientist at Galvanize was asked..., They asked if I could create an anagram checker using python within 30 minutes
+Data Scientist at Genentech was asked..., Basic SQL query and split a word into basic components for a function.
+Data Scientist at Yelp was asked..., Whats the difference between decision trees and extreme boosted trees mathematically? 
+Senior Data Scientist at Formation was asked..., How did you put your code into production?
+Data Scientist at Lyft was asked..., Multiple graph optimization q's
+Senior Data Analyst/Data Scientist – Retail Advertising Analytics and Innovation Team at eBay was asked..., What is the total length of all the roads in San Francisco?
+Data Scientist at Cisco Systems was asked..., cloning a graph
+Data Scientist at Windfall was asked..., Be prepared to wow them with stories on how you pushed models to production with large data. The job mainly is to really take your time with BigQuery for EDA and data quality checks since data is their product.
+Senior Data Scientist at LinkedIn was asked...," They are really reasonable about questions. Just explain clearly what you have done before, the questions that they have a open ended discussions. If you can talk on a subject matter and give a few angles on a problem that is all they are looking for. "
+Data Scientist at KeepTruckin was asked..., How would you use dash-cam to evaluate accident risk ?
+Data Scientist at AutoGrid was asked..., Most questions were from the problems they work on. Some ML questions
+Data Scientist at New Relic was asked...," They give you enough info on what to expect during your interview, so I wasn't really surprised with anything."
+Data Scientist at Houzz was asked..., How would you set up an A/B test?
+Junior Data Scientist at Automatic was asked...," If the coefficient of an independent variable in linear regression has an opposite sign than it should be, what might be the reason"
+Data Scientist at Uber was asked..., Write a production code to find all combinations of numbers in a list that sum up to 8. 
+Data Scientist at Facebook was asked..., How would you measure the success of a new feature?
+Data Scientist at Uber was asked..., Write a production code to reverse a number. 
+Data Scientist at Uber was asked...," If you were rolling out Uber ride passes for the first time, how would you set the prices?"
+Data Scientist at Airbnb was asked...," An important metric goes down, how would you dig into the causes?"
+Data Scientist at C3 was asked...," code kmeans from scratch, code knn from scratch"
+Data Scientist at Instacart was asked..., Estimate the demand and supply
+Data Scientist at Airbnb was asked..., Why do you think we implemented this feature? 
+Data Scientist at Tubi was asked..., machine learning
+Data Scientist at Asana was asked...," I'm not going to answer this in specific. Be prepared to answer lots of experimental design questions. How you would direct new features, test changes to a product, what types of data to collect, etc."
+Data Scientist at Roivant Sciences was asked..., Describe a commercially relevant problem you have worked on.
+Data Scientist at Facebook was asked...," Building a histogram of post reply count in SQL (number of posts with x replies, x+1 replies, etc). Building a table with a summary of feature usage per user every day (keep track of the last action by user and roll that up every day). Basic conditional probabilities (check out brilliant.org for their source of inspiration)"
+Data Scientist at Uber was asked..., There were many questions during the interview. Here is a brief summary of type of questions. How do you find an anomaly in a distribution? How do you investigate that a certain trend in a distribution is due to anomaly? How do you test a particular product? Pick your favorite product or app and describe how you would improve it or design it? How do you estimate of an impact that Uber has on driving conditions and congestion? Most questions were open-ended. 
+Data Scientist at Roivant Sciences was asked..., What problem are you currently working on with programming?
+Data Scientist at Symantec was asked..., Take home predictive modeling assignment on lending data. 
+Statistically Significant Data Scientist at LiveRamp was asked..., There were a few questions about encoding/decoding of various types of data.
+Data Scientist at Airbnb was asked..., How would you impute missing information? 
+Data Scientist - Product Analytics at Facebook was asked..., SQL; Approaches to solve business questions 
+Data Scientist at Airbnb was asked..., What do you like about our product?
+Data Scientist at E8 Security was asked..., What is the hardest problem in security?
+Data Scientist at C3 was asked..., ask about how to tune the hyperparameters and feature engineering
+Data Scientist at C3 was asked..., How do you train a decision tree? 
+Data Scientist at C3 was asked..., How are Scipy sparse matrices implemented 
+Data Scientist at 6sense was asked...," You're given a data set and asked to do classification, regression, etc.. I can't describe more than that as I used part of 6Sense's data and, based on that, I signed an NDA. "
+Data Scientist at Facebook was asked..., Simple SQL questions. AB Testing. 
+Facebook Data Scientist at McKinsey & Company was asked..., SQL questions+product questions
+Data Scientist at Butter AI was asked..., Some irrelevant-for-work-question that doesn't check anything related to what you're going to do.
+Data Scientist at Instacart was asked...," 1. We are observing this trend, what are possible explanations for why? 2. Behavioral (talk about a time when...) 3. SQL. Did not have live coding, only in the initial problem and take home portion "
+Data Scientist at Facebook was asked...," How do you calculate monthly active users, churned users and resurrected users from a user activity log with userID and DateTime"
+Data Scientist at Uber was asked..., Explain how network effects might influence your choice of how to assign experimental/control units and measure your main outcome metrics
+Senior Data Scientist at hibooks was asked..., What data is needed to build a recommendation system 
+Data Scientist at Second Measure was asked...," Have you ever had an issues with a colleague? If so, how did you handle it and what happened?"
+Data Scientist at Uber was asked..., SQL & data structure 
+Data Scientist at Second Measure was asked..., All questions were related to the data they work with day to day
+Data Scientist at Uber was asked...," SQL operations, optimization of pickup time, how to evaluate the success of a new feature "
+Data Scientist at Credit Karma was asked..., describe a ML model
+Data Scientist at Uber was asked...," The challenge had 3 parts: SQL, Experiment Design, and Machine Learning. In the SQL portion you had to write some queries to answer complicated real world questions (without any data given, just a schema). In the experiment design portion you are asked to create a hypothetical plan to answer testing a new app. In the Data Science portion, you are asked to perform binary classification on a given data set, and return insights from the classification."
+Data Scientist at Airbnb was asked..., All questions are directly related to the presentation. What does the gap represent in your graph?
+Data Scientist at Uber was asked..., When did you graduate college?
+Data Scientist at Uber was asked..., How many years have you been working?
+Data Scientist at Skillz was asked...," Given four people's name, rank, number of games, and win-ratio design an 2-player matching algorithm that optimizes based on fairness."
+Data Scientist at Uber was asked..., Write out a function to calculate the AUC of an ROC curve. 
+Data Scientist at eBay was asked...," Build a model to identify customers interested in receiving ad emails. Machine Learning questions like boosting, bagging and stacking and so on."
+Data Scientist at Yummly was asked..., Detailed understanding of ttest Understanding of working through data to identify different opportunities fro Yummly - in terms of analysis feeding decision and models feeding features
+Data Scientist at Lyft was asked...," Given a simple dataset, what features can you derive from this data? (simple question, but the answer is evaluated under high standards.)"
+Data Scientist at Uber was asked..., Solving several case studies with UBER
+Data Scientist at Facebook was asked..., SQL question + Case + Stats
+Data Scientist at Facebook was asked...," Other people have covered SQL questions thoroughly - but the interview is just as heavily (if not more so) focused on product sense! Make sure you are familiar with the differences between Facebook/Instagram/Snapchat/Twitter in terms of social graphs, UX, monetization etc. "
+Data Scientist at Atlassian was asked..., Did not really ask me any questions.
+Data Scientist at Yelp was asked..., about my project on resume. 3 Sum
+Senior Data Scientist at KPMG was asked..., How would you code a given problem using R or Python?
+Senior Data Scientist at KPMG was asked..., Asked questions about my presentation such as why didn't you use varying other techniques. 
+Data Scientist at VigLink was asked..., Describe in detail past predictive modeling projects
+Data Scientist at Aera Technology was asked..., SQL related questions
+Senior Data Scientist at KPMG was asked..., What machine learning techniques would you use to model a given problem. 
+Data Scientist at Zenefits was asked..., 1. Probability Question 2. Open-ended case studies
+Senior Data Scientist at Coffee Meets Bagel was asked..., Explain the difference between normalization and regularization. 
+Senior Data Scientist at Coffee Meets Bagel was asked..., What project at your previous job are you most proud of? Why?
+Data Scientist at Facebook was asked...," Again, I can't talk about the specific question, but after I wrote up a simple algorithm, the interviewer asked me for a more efficient solution. I really struggled with that."
+Senior Data Scientist at Coffee Meets Bagel was asked...," If I called your current boss today, and asked him/her to describe you to me, what would they say? What is the most negative thing they would say?"
+Data Scientist at Facebook was asked..., SQL. And why the number of likes are increasing?
+"Data Scientist, Feature Engineering at AdRoll Group was asked...", How would you evaluate the revenue being brought in by a show if you are Netflix? How would you decide whether or not to do a second season for a show?
+Data Scientist at Opendoor was asked...," Pair sessions: given a data set, do exploratory data analysis, then build a predictive model to solve a real business problem here. Whiteboard design: previous experience, and a open end discussion on a Business Intelligence challenge here."
+Data Scientist at Facebook was asked...," We at Facebook would like to develop a way to estimate the month and day of people's birthdays, regardless of whether people give us that information directly. What methods would you propose, and data would you use, to help with that task?"
+Data Scientist at Instacart was asked..., How would you tune a random forest?
+Data Scientist at Facebook was asked...," There's a game where you are given two fair six-sided dice and asked to roll. If the sum of the values on the dice equals seven, then you win $21. However, you must pay $5 to play each time you roll both dice. Do you play this game? And in follow-up: What is the probability of making money from this game?"
+Data Scientist at Airbnb was asked..., Brain storm potential causes of an anomaly in web traffic data
+Data Scientist at Lawrence Livermore National Laboratory was asked...," In the language of your choice, write code to reverse a string. What data structure would you use? If you have a continuous stream of integers and only wanted to keep the 10 highest numbers, what data structure would you use to implement this?"
+Data Scientist at Salesforce was asked..., Basic stats
+Data Scientist at Airbnb was asked..., Come up with a metric that help reduce bias in the data set
+Associate Data Scientist at Nuna Logistics was asked..., How would you validate a logistic regression?
+Data Scientist at Flexport was asked..., work experience related question
+Data Scientist at Facebook was asked..., What is the revenue by advertiser for the month of March? (From one table) What is the ROI for each advertiser for the same month? (Now there are two tables)
+Data Scientist at Capital One was asked...," General data analysis questions, data quality questions, general data science questions, some algorithm questions. Personality and some management and experience related questions."
+Data Scientist at Thumbtack was asked..., Can you do xyz with data? How will you solve this business question? How will you implement it? 
+Data Scientist - Machine Learning at Affirm was asked...," Given a model that gives the likelihood that a loan is fraudulent, how should you proceed?"
+Data Scientist at Facebook was asked..., easy SQL questions and product relative open-end questions.
+Senior Data Scientist at Salesforce was asked..., Bayesian probability question
+Senior Data Scientist at Salesforce was asked..., KPI/metric design
+Senior Data Scientist at Salesforce was asked..., A/B testing
+Data Scientist at C3 was asked..., Tell me about your background
+Data Scientist at RaiseMe was asked..., What is a question that we didn't ask that we should have asked?
+Senior Data Scientist at Salesforce was asked..., Machine learning methodology screening: decision tree and multi variate regression and PCA
+Data Scientist at C3 was asked..., Describe some of the projects you have worked on
+Senior Data Scientist at Salesforce was asked...," Cross validation, K-folder and so on"
+Data Scientist at Asana was asked...," The data analysis challenge consisted of an example data set in an AWS hosted database, with questions about identifying the most important predictors."
+Data Scientist at C3 was asked...," MC questions on SVM, K Means, and other ML techniques"
+Data Scientist - Analytics at Facebook was asked..., SQL Table Manipulation
+Data Scientist at Uber was asked..., some real problems that uber faces.
+Data Scientist at Workday was asked..., Write a C++ class to perform garbage collection.
+Data Scientist at Airbnb was asked...," For the onsite data challenge, a question was asked regarding my practice of removing the missing values. What if it causes bias? What will you do then?"
+Head of Data Scientist at Amino was asked...," Many questions ranging from basic information about my education background to previous working expereince. Also questions related with DS and product integration, statistical modeling and ML algorithms, best DS practices, building and growing a DS team with good focus and execution, and etc."
+Data Scientist at Facebook was asked..., Likes/user and minutes spent on a platform are increasing but total number of users is decreasing. What could be causing this?
+Data Scientist at Salesforce was asked...," Questions about my past project experiences, machine learning concepts, business case studies and some behavior/culture fit questions"
+Data Scientist at Uber was asked..., Some sql questions and a take home ML problem sheet
+Data Scientist at Human API was asked..., Some questions about NLP.
+Data Scientist at Scribd was asked...," SQL, python (simple algorithm questions -- no pandas/data manipulation), basic probability and AB testing questions"
+Data Scientist at Samba TV was asked...," Prob, stats, ML, PM, coding (Python)."
+Data Scientist at Facebook was asked...," How many high schools that people have listed on their profiles are real? How do we find out, and deploy at scale, a way of finding invalid schools?"
+Data Scientist at Facebook was asked...," How do you map nicknames (Pete, Andy, Nick, Rob, etc) to real names?"
+Data Scientist at Walmart eCommerce was asked..., How many sub-spaces can 4 lines divide in 2D? How many sub-spaces can 4 hyperplanes divide in 3D?
+Data Scientist at Facebook was asked...," Facebook sees that likes are up 10% year over year, why could this be?"
+Data Scientist at Facebook was asked...," If a PM says that they want to double the number of ads in Newsfeed, how would you figure out if this is a good idea or not?"
+Data Scientist at Facebook was asked...," We have two options for serving ads within Newsfeed: 1 - out of every 25 stories, one will be an ad 2 - every story has a 4% chance of being an ad For each option, what is the expected number of ads shown in 100 news stories? If we go with option 2, what is the chance a user will be shown only a single ad in 100 stories? What about no ads at all?"
+Data Scientist at Facebook was asked...," Due to NDA, I will not disclose the specific questions. However, most of the questions you can find in other reviews."
+Data Scientist at Facebook was asked...," If 70% of Facebook users on iOS use Instagram, but only 35% of Facebook users on Android use Instagram, how would you investigate the discrepancy?"
+Data Scientist at Facebook was asked..., How do you measure newsfeed health?
+Data Scientist at Walmart eCommerce was asked..., How to divide n numbers into k clusters to minimize the sum of in-group errors?
+Data Scientist at Facebook was asked...," How would you measure the health of Mentions, Facebook's app for celebrities? How can FB determine if it's worth it to keep using it? If a celebrity starts to use Mentions and begins interacting with their fans more, what part of the increase can be attributed to a celebrity using Mentions, and what part is just a celebrity wanting to get more involved in fan engagement?"
+Data Scientist at Facebook was asked...," There is a table that tracks every time a user turns a feature on or off, with columns user_id, action (""on"" or ""off), date, and time. How many users turned the feature on today? How many users have ever turned the feature on? In a table that tracks the status of every user every day, how would you add today's data to it?"
+Data Scientist at HomeLight was asked...," How would you go about building a model for this problem, explain about different ML models, general tech talk."
+Data Scientist at Cognitive Networks was asked...," If there are 30 groups of servers, each with an uptime of 0.99, and you select 1 at random, what is the probability that at least one server in the group chosen will be up?"
+Data Scientist at Airbnb was asked..., logistic regression loool
+"Data Scientist, Analytics at Facebook was asked...", Write a SQL query to compute a frequency table of a certain attribute involving two joins. What if you want to GROUP or ORDER BY some attribute? What changes would you need to make? How would you account for NULLs?
+Data Scientist at Zipongo was asked..., What would distribution of likes/comments for every recipe look like?
+Data Scientist at Amino was asked..., How does Random Forest calculate feature importance?
+Data Scientist at Synthego was asked..., Load and manipulate the data in a csv file to examine trends in impurities for different pieces of equipment
+"Data Scientist, Analytics at Facebook was asked..."," Lets say the population on Facebook clicks ads with a click-through-rate of P. We select a sample of size N and examine the sample's conversion rate, denoted by hat{P}, what is the minimum sample size N such that Probability( ABS(hat{P} - P) < DELTA ) = 95%. In other words (this is my translation), find the minimum sample size N such that our sample estimate hat{P} is within DELTA of the true click through rate P, with 95% confidence."
+Data Scientist at Capital One was asked...," (Given 20 minutes to look through several printouts of data, charts and slides) How would you communicate the findings from this model to a non-technical executive?"
+Network Data Scientist at ThousandEyes was asked...," Lots of C++ and Python coding questions, along with an in-depth interview regarding basic and advanced networking."
+"Data Scientist, Analytics at Facebook was asked..."," Given two binary strings, write a function that adds them. You are not allowed to use any built in string to int conversions or parsing tools. E.g. Given ""100"" and ""111"" you should return ""1011"". What is the time and space complexity of your algorithm?"
+Senior Data Scientist at Protagonist was asked..., How do you filter the outliers in the data?
+Data Scientist at Facebook was asked..., Do you have any questions?
+Senior Data Scientist at Protagonist was asked..., How do you filter the outliers from your data?
+Data Scientist at Facebook was asked...," Very disappointing experience from interviewing with FB. Absolute worst and least professional interviewer I have ever had. * FB does video interviews for the first round (along with coding in an online environment). This is fairly surprising since it can't serve much legitimate purpose. I'm sure their legal team is thrilled at the additional burden they face in discrimination lawsuits since the interviewer clearly can has information about the appearance of the candidate and they can't plead ignorance. Of course perhaps they are looking for unkempt candidates or trying to demonstrate the culture of transparency at Facebook, but read on! * Interview was 5 minutes late to video interview and had disheveled appearance during whole interview. He was constantly fidgeting and playing with the neighboring chairs and objects on the table and even put his feet on the other chairs and table! An interview for a position is a two-way street, so the interviewer also needs to be on ""best behavior"". * In addition to the behavior above which was unprofessional, he interrupted very frequently. This goes beyond steering the conversation. This is really tricky since one person is judging you, nobody wants to say ""Please allow me to finish explaining my answer and reasoning"" and hope somebody like this won't hold it against you. He possibly spent just as much time talking as I did during the interview answering his questions. The interruptions came both in the coding sections when I explained my thought process before implementing it and during the product questions when explaining possible scenarios. Of course clarifying comments are helpful to make sure the candidate is on the right track, but interrupting somebody just because they want to use a subquery (and you wouldn't) and is going to solve the problem slightly differently than you would is indicative of your lack of emotional intelligence and perhaps also the programming language you're working with. * He obviously wasn't paying attention during the process and didn't take it seriously. He was constantly working on his computer. Of course he could have been taking notes, but after I answered a question twice and explained my thoughts twice, he stated what the correct answer was--which was in fact what I said twice, but he apparently hadn't been listening then and was occupied with the chair/table objects/computer. * The interviewer seemed to only accept very specific answers that aligned with his thoughts and preferred answers. This mentality is obviously horrible for open-ended questions like ""what could be causing this"" or ""what data would you look at"". You may be looking at this data all the time and know which fields are useful for this task, but when you condescendingly react like the interviewee is a complete idiot for thinking of looking at the timestamp patterns for app usage you don't demonstrate your intelligence but rather your closed mindedness and unfamiliarity and inexperience with working with any type of data except the dataset at your company. * It is probably clear from reading the interview questions from other candidates and what the recruiters provide you as prep, but this really isn't a data scientist position: it's more or a data analyst or SQL monkey position. For this reason I was borderline on interviewing here anyway but thought, ""hey, it is Facebook"". I'm sure everybody in the industry knows that this is what FB data scientists do, so while the name cache might carry advantages when looking for a job later, it could actually harm you if you want to be thought of as a data scientist and move on to legit data scientist/software engineer positions. * The information you receive that you can solve the questions in SQL or Python or R is possibly incorrect. My interviewer wanted it in SQL or Python. Not a big deal since I know all three, but when when this is one of the first things you hear (along with all the rest of the insanity of this interview) it is enough to throw you off your game. SQL seems to be the preferred solution, so I'd recommend forgetting about the others if your SQL is decent. * The one positive of all of this experience is that the recruiters were professional--both in scheduling the interviews and in explaining the role and answering any questions you may have. Overall, I agree with some of the other comments here that you might get unluckly with a very egotistical interviewer. Officially I haven't heard back from FB yet, but I would be shocked to advance and really have no interest to work with someone like this. Bad apples exist in all companies, but a bro culture like this really does dampen any interest of anything FB. Yikes."
+Data Scientist at WePay was asked...," SQL questions, probablity related questions, data structures, machine learning related questions"
+Data Scientist at Facebook was asked..., Suppose likes are down 2% but engagement is up 5%. Is that good?
+Data Scientist at Granular was asked..., Take-home assignment included basic data analysis
+Data Scientist at Affirm was asked..., Please walk me through how you would solve [business problem] using [some complex SQL query using multiple joins and a counting trick].
+Senior Data Scientist at Amyris was asked...," Basic behavioral questions about how to juggle projects, leadership style, etc. "
+Data Scientist at Facebook was asked...," You have a table with appID, eventID, and timestamp. eventID is either 'click' or 'impression'. Calculate the click through rate. Now do it in for each app."
+Senior Data Scientist at 6sense was asked..., Pure prediction problem. Build a model given 3 fields. 
+Senior Data Scientist at Uber was asked...," Here's an ugly data set. Do exploratory analysis. Create visualizations. Discuss. Build a predictive model with different approaches, concerns,validity, performance..."
+Data Scientist at Lyft was asked..., What is the lifetime value of a driver?
+Data Scientist at Automatic was asked...," In a social network, calculate the minimum number of steps between any two nodes."
+Data Scientist at Clover Health was asked..., The first question was about throwing a dice and estimate the average. The second one gives you the probability of at least 1 event per hour and you need to calculate the same probability for 2 hours. You need first to calculate the probability of zero events.
+Data Scientist at 6sense was asked...," The training data is pulled from raw logs. It has three columns that record user activity over time: user_id: A hash that uniquely identifies the user. activity_date: The date of the activity activity_type: The type of activity 6sense would like to predict which users will purchase given the user's activities. Using the training data, build a model that predicts which user_id's will make a purchase in the future. Use the model to score the test data from most likely to least likely to purchase. Please submit the following: (1) Descibe which activity types you believe are most useful in predicting which user will purchase in the future. (2) Provide a file containing the 1000 user_id's most likely to convert. (3) [optional] Any work used to generate the list and/or notes you'd like to include. "
+Data Scientist at Natera was asked...," Probability (Bayes' Rule, etc), statistics, algorithms, calculus."
+Senior Data Scientist at C3 was asked..., Most questions are around machine learning and data mining. 
+Data Scientist at Risk Management Solutions was asked...," Q1: estimate how many employees in the next building Q2: estimate how many stop lights in San Francisco Q3: if you are CIA agent, how would you pinpoint a potential terrorist"
+Data Scientist at Uber was asked..., Uber pool how to design the route.
+Data Scientist at Turo was asked...," Two datasets provided: vehicles - table of all vehicles and their attributes: • technology: 0 if none, 1 if yes (technology that is installed in vehicles that makes them ""instantly bookable"" and unlockable with mobile phone) • actual_price: actual daily price for vehicle (owners are able to set whatever price they want) • recommended_price: appropriate ""market"" price for the vehicle, based on our analysis • num_images: number of photos of the car • street_parking: 0 no, 1 yes • description: number of characters of the car description inputted by the owner reservations - table of all completed reservations: • vehicle_id: vehicle's unique ID • reservation_type: 1 is Hourly rental, 2 is Daily, 3 is Weekly Using the two attached datasets, please prepare a short presentation with your answers to the following questions: • Which of the factors seem to be most important in driving total # of reservations for our vehicles? (technology type, pricing, number of car photos, street parking, car description length) • How does the car's technology type seem to affect reservations? Feel free to use any tool(s) that you feel comfortable with to complete this analysis (Excel, SQL, R, Python, etc)."
+Data Scientist/User Researcher at GitHub was asked..., Was pleasantly surprised to be asked a number of questions about ethical concerns in user research.
+Data Scientist at LendingClub was asked..., How do you interpret the features in a random forest model after the feature selection?
+Data Scientist at Facebook was asked..., Make a histogram of 2 variables
+Data Scientist at Cablevision Systems was asked..., Talk about the project you are proud of
+Data Scientist at Uber was asked..., What are the performance metrics of evaluating various Uber services.
+Data Scientist at Samba TV was asked..., What's your favorite TV show?
+"Data Scientist, Product at Clover Health was asked...", They have multiple case studies and to test your thinking in AB testing. metrics and measurements. 
+Data Scientist at Granular was asked..., See reports of prior interviewees.
+Data Scientist at Grammarly was asked...," From a list of user ""ping"" data, compute some descirpitives, and user retention curves. Finally determine which referral sources made the most successful users."
+Senior Data Scientist at thredUP was asked...," In-depth Rails questions, in particular on routes; What are those HTTP methods, and corresponding Rails methods. Difference between PUT/UPDATE. What is PATCH? Rails routes: member, collections? MySQL vs. Postgres, why one over the other. MySQL vs. NoSQL. Design eCommerce websites; Design products recommendation for eCommerce. "
+Data Scientist at 6sense was asked..., Both interviews required difficult data science challenges.
+Data Scientist at Avast Software was asked...," case interview on gps location data (idnumber, realtime gps location, time) how to find they are a family;what algorithm, why, whats the problem using this, if sb's location keeps changing or not fixed, how to do"
+Data Scientist at Salesforce was asked...," 1.Given a Dataset, try to answer questions about the data like feature importance etc. 2. Case studies about model complexities. 3. Questions on Logistic regression parameters, SVM, Decision Trees, Random Forests etc. 4. SQL Queries"
+Data Scientist Manager at Airbnb was asked..., How would you measure the effectiveness of our operations team?
+Senior Data Scientist at Netflix was asked..., What do you know about A/B testing in the context of streaming? 
+"Data Scientist, Analytics at Facebook was asked..."," They just made up some questions based on SQL and hypothetical new features, don't think I can share the exact questions here."
+Data Scientist at TubeMogul was asked..., how do you turn a LIFO into a FIFO. How do you find a min value of the nodes in a Binary Tree? How do you deal with null or empty nodes? An SQL question.
+Data Scientist at Stitch Fix was asked..., How might you determine if the size of a specific item is a significant feature in determining the customer's calculated propensity to buy it?
+Data Scientist at Yelp was asked..., Setting up A/B tests to improve engagement
+Data Scientist at Remind was asked..., Why Remind?
+Data Scientist at Postmates was asked...," A take home project involving matching jobs, couriers and transactions using python."
+Senior Data Scientist at Aera Technology was asked...," Given a matrix, count the number of paths from from top left corner to the bottom right corner"
+Data Scientist at Facebook was asked...," It was all a blur to me now. I don't think there was anything too difficult in particular, but lots of talking and have to focus since all interviews were back-to-back."
+Statistically Significant Data Scientist at LiveRamp was asked...," Tell me about a research project you worked on that dealt with data? Write a program that takes an array of bytes and outputs the i-th bit of each byte, with each byte of either length 1 or 2. How would you count the number of friendship degrees separating any pair of actors? How would you decide between 2 bets? Some problems regarding minute samples of actual LiveRamp data (highly privacy protected) and what metrics you would use to answer certain questions of interest using the data."
+Data Scientist at LiveRamp was asked...," The graph 6-degree Bacon Number questions is their favorite. Follow-up questions were asked by interviews, need to give it a lot of thinking. The experience so far is very good. "
+Data Scientist at Ethos Lending was asked..., Why do you want to work for the company?
+Data Scientist at Facebook was asked...," Signed NDA. Questions focused on product, and how to infer information based on given data by customers."
+Senior Data Scientist at Aera Technology was asked...," Given a matrix, count the number of paths from from top left corner to the bottom right corner, with obstacles in between"
+Data Scientist at Facebook was asked...," If we were testing product X, what metrics would you look at to determine if it is a success?"
+Principal Data Scientist at Udemy was asked..., Why do I want to come to Udemy?
+Principal Data Scientist at Udemy was asked..., Why do I want to leave my previous job?
+Senior Data Scientist at Instacart was asked..., SQL query and then an employee optimization dataset.
+Data Scientist at First Republic Bank was asked..., Do you have any experiences in predicting loan default? 
+Data Scientist at Eventbrite was asked..., What metrics would you consider when evaluating an event posting?
+Data Scientist at Thumbtack was asked..., AB testing and other data science questions
+Data Scientist at Conviva was asked..., Some questions about probability and distributions
+Data Scientist at Radius Intelligence was asked...," Emphasis was on technical programming skills for data preparation and cleaning. Questions were vague and appeared to be ones that they come across in their work, with little connection with textbook methods. The machine learning areas were only lightly touched on, and the group's overall experience with interviewing is spotty."
+Data Scientist at Opendoor was asked..., recommendation system design
+Data Scientist at Facebook was asked..., A. Python Object Oriented concepts B. Sorting Algorithm C. Simple SQL with Join / Sub-queries D. Linear Regression E. Python String Puzzle F. P-Value & T-test 
+Data Scientist at Cogitativo was asked...," Mostly just background, a statistics question, general machine learning concept questions"
+Data Scientist at Opendoor was asked..., How would you use ____ to estimate house prices?
+"Data Scientist, Bioinformatics at Synthego was asked...", Work through a simple case study that they work on. 
+Data Scientist at Facebook was asked..., We have a product that is getting used differently by two different groups. What is your hypothesis about why and how would you go about testing it?
+Data Scientist - Machine Learning at DoorDash was asked..., take home machine learning challenge
+Data Scientist at Tapjoy was asked..., - discussion on projects on the resume - seemed like a phishing call based on the questions interviewer was trying to ask - got a reject 2 days later
+Data Scientist at Facebook was asked...," Given a specific product, come up with some potential improvements and design a series of experiments for testing/implementing these changes."
+Data Scientist at Facebook was asked...," I was surprised that there were no machine learning or data mining questions, or any personality/experience (""tell me about a time when you..."") questions. The more technical questions were things that a graduating CS student would succeed at, but did not involve principles that you would actually use in practice in a data role at a company. Also, make sure you continue working on a problem until you've provided the most efficient solution you think you can. I stopped after I had a working solution, and indicated to the interviewer that I don't think it's the most efficient solution. The interviewer said it was fine and we moved on to another question. Nonetheless, the biggest piece of feedback I got from the recruiter afterwards is that I didn't provide a solution that was sufficiently efficient."
+Data Scientist at Yelp was asked..., The difference between Bayesian vs frequentist statistics
+Data Scientist at Salesforce was asked...," 1.Explain about a project in my resume in layman terns 2.SQL group by, nested select and window functions 3.Assumptions and violations of K-means clustering 4.Feature selection for Document classification"
+Data Scientist at The Climate Corp was asked..., Let's say you have a new data set how would you work with it and model it.
+Senior Data Scientist at Uber was asked..., How do you build a culture of data responsibility?
+Data Scientist at The Climate Corp was asked..., Would disease modeling a Follow a Gaussian distribution? Asked by HR.
+Data Scientist at Sonder was asked..., homework
+Data Scientist at Lyft was asked..., Some basic statistics e.g. correlation and variance. 
+Data Scientist at C3 was asked..., How would you go about formulating the problem of predictive maintenance on an aircraft?
+Data Scientist at Databricks was asked...," SQL;coding questions. Questions are not too hard. But I think they want you to be able to solve without much thinking, with speed."
+Data Scientist at Facebook was asked..., Write a sorting algorithm for a numerical dataset in Python.
+Data Scientist at Hinge Health was asked..., Various questions probing why I made certain decisions in the data challenge. 
+Data Scientist at Farallon Capital Management was asked..., both technical assignment involved scraping and analyzing data.
+Data Scientist at GroundTruth was asked..., 1. Statistics Questions 2. Probability Questions 3. Machine Learning 4. Predictive Analysis
+Data Scientist at Blue Owl was asked..., Do you have 4-6 weeks for our interview process? Are you willing to spend maximum 2 hours to solve our take home challenge?
+Data Scientist at Roofstock was asked...," Relaxed and conversational, a few brief technical queries (I assume to verify I actually had experience with the required technical skills)."
+Data Scientist at Affirm was asked..., They gave me a laptop and asked me to analyze a dataset using whatever tools I wanted.
+Data Scientist at Quantifind was asked...," Given a list of integers, find all combinations that sum to a given integer."
+Data Scientist at Quantifind was asked...," Given a list of words, find all the anagrams."
+Data Scientist at XpertTech was asked...," questions related to LDA, machine learning, and deep learning. "
+Data Scientist at Visa Inc. was asked..., How to estimate customer location based on Visa transaction data
+Data Scientist at Facebook was asked...," Some SQL join, aggregation, etc"
+Data Scientist at Facebook was asked..., Very simple probability - high school level math
+Data Scientist at Facebook was asked..., What metric would you show small businesses if you were trying to have them sign up for Facebook Ads
+Data Scientist at Facebook was asked..., What would you add to Facebook and how would you pitch it and measure its success.
+Data Scientist at Facebook was asked...," Given a table of friend requests sent and friend requests received, find the user with the most friends."
+Legal Assistant at FremantleMedia was asked..., What are you looking to accomplish within this role?
+Data Scientist at Motiv was asked..., Tell me about your self? what are your strengths? What are your weaknesses?
+Data Scientist at Airbnb was asked..., How can you report the statistical results to a non-statistician staff.
+Data Scientist at Color Genomics was asked...," A man has two children, at least one of them is a boy. What is the probability that he has two boys?"
+"Data Scientist, SMB at Facebook was asked...", What is the difference between inner and left join?
+Data Scientist at Affirm was asked..., - Write a package manager like apt-get
+Data Scientist at Uber was asked..., 1. Tell me about yourself 2. why you are interested in the data science position? 3. introduce a machine leaning project that you've done.
+Data Scientist at POPSUGAR was asked..., How do you count a table of likes with timestamps?
+Data Scientist at POPSUGAR was asked...," Expect 1 person to qualify a project you worked on, and at least one data scientist to ask reasonable questions. The rest will be silly puzzles, and open ended questions without context. Bring a snack if you make it past the phone screen."
+Data Scientist at Proteus Digital Health was asked...," Technical questions about the specifics of the machine learning algorithms I had used, cost functions, different types of gradient descent, kernels, and other specific equations related to supervised machine learning."
+Data Scientist at Granular was asked...," Given a data set, how would you predict the missing values?"
+Data Scientist at Salesforce was asked..., Questions on attrition/churn modeling
+Data Scientist at Uber was asked..., What metrics would you use to track whether Uber's strategy of using paid advertising to acquire customers works? How would you then figure out an acceptable cost of customer acquisition?
+Data Scientist at Yelp was asked..., How to swap two elements of a list
+Data Scientist at Presto was asked..., Develop and train a model to predict revenue from games and provide statistical evidence for your model.
+Data Scientist at C3 was asked...," Quite typical. Behavior, probability, machine learning, and coding. "
+Data Scientist at Uber was asked..., A/B testing in India
+Data Scientist at Omada Health was asked..., Describe a project you did.
+Senior Data Scientist at Albertsons Companies was asked..., Instances of machine learning applied in your projects
+Data Scientist at Facebook was asked...," They honestly give you a good feel for the types of questions they'll be asking. No surprises. ""Most difficult"" is so subjective it's meaningless in this context. I hope you're good at math/computer science. If you've had some meaningful machine learning experience, you'll be set."
+Data Scientist at First Republic Bank was asked..., How could small banks like us compete with mega-banks?
+Data Security Scientist at Federal Reserve Bank (NY) was asked..., How would you determine the attackers operating system via the tcp/ip packet?
+Data Scientist at Facebook was asked...," Multiple probability and statistic questions, multiple algorithm programming questions, multiple database questions, multiple product information questions."
+Junior Data Scientist at King was asked..., Why do you want to work here?
+Data Scientist at Affirm was asked..., What would your colleagues say is your greatest weakness? 
+Data Scientist at Uber was asked..., One question about Uber data and one easy programming question.
+Principal Data Scientist at Workday was asked...," Python array of list of list, sorting, counts, z-score, summarization"
+Data Scientist at Upstart was asked..., Write down cost function of a model
+Risk Data Scientist at LendingHome was asked..., Project questions. Clearly state your metrics and assumptions and why. Brain-teaser questions as well.
+Data Scientist at Uber was asked...," A lot about Uber Pool. The questions were general in nature. At this stage, it was more a series of thought exercises. They seemed focused on understanding how you approach problems. "
+Data Scientist at C3 was asked...," Previous projects, open-ended data science question, algorithms etc."
+Data Scientist at Facebook was asked...," There is a building with 100 floors. You are given 2 identical eggs. How do you use 2 eggs to find the threshold floor, where the egg will definitely break from any floor above floor N, including floor N itself"
+Data Scientist at Facebook was asked...," You randomly draw a coin from 100 coins - 1 unfair coin (head-head), 99 fair coins (head-tail) and roll it 10 times. If the result is 10 heads, whats the probability that the coin is unfair?"
+Data Scientist at Clover Health was asked..., simple dice roll question
+Data Scientist at Blue Owl was asked..., Are you willing to solve one of our biggest challenge?
+Data Scientist at Facebook was asked...," SQL questions, product related questions and probability questions"
+Data Scientist at Nielsen was asked..., What are some metrics that are more appropriate for use in a syndicated product than one ordered by a particular client?
+Data Scientist at Granular was asked..., Model the data based on location and the model the data based on time. 
+Data Scientist at Asana was asked..., Algorithms questions and a case
+Data Scientist at Facebook was asked...," Consider a game with 2 players, A and B. Player A has 8 stones, player B has 6. Game proceeds as follows. First, A rolls a fair 6-sided die, and the number on the die determines how many stones A takes over from B. Next, B rolls the same die, and the exact same thing happens in reverse. This concludes the round. Whoever has more stones at the end of the round wins and the game is over. If players end up with equal # of stones at the end of the round, it is a tie and another round ensues. What is the probability that B wins in 1, 2, ..., n rounds?"
+Senior Data Scientist at Salesforce was asked..., Describe your previous projects
+Associate Data Scientist at Workday was asked...," Given a huge collection of books, how would you tag each book based on genre?"
+Principal Data Scientist at Walmart eCommerce was asked...," I was asked to lead a conference call with an external academic expert, to design a 'gamified' approach to the Walmart smartphone app, to structure and moderate a brainstorming session with several teams, to design a number of prototyping/testing programs, and asked many many questions. Remember, this all took place over one 9.5 hour session and another 5-day session!"
+Data Scientist at Facebook was asked...," Given a list of integers (positive & negative), write an algorithm to find whether there's at least a pair of integers that sum up to zero. How do you improve your algorithm? (re: Big-O notation)"
+Data Scientist at Lyft was asked..., Background and previous experience with Python and SQL. Previous project that are relevant to Lyft's problems.
+Data Scientist at Pocket Gems was asked..., I have been asked how would I perform some A/B tests.
+Data Scientist at Omada Health was asked..., Describe a project you've been working on.
+Data Scientist at Amino was asked..., How would you improve Amino's provider search? How would you use the data available and collect additional data on user preferences to serve the best suggestions? 
+Data Scientist at McKesson was asked...," Given this scenario, how would you approach X X being what they were hiring for and still a new and experimental division"
+Data Scientist at Samba TV was asked..., They asked me if I were open to a position that were more ETL oriented.
+Data Scientist at Opendoor was asked..., How should we charge people who sell us their homes?
+Data Scientist at Quantifind was asked..., Probability and statistics questions.
+Data Scientist at Snap was asked..., why are you interested in snap?
+Senior Data Scientist at Gameloft was asked..., Lots of useless stuff like cliched Engineering questions for stuff you'd never use in Data Science. Never in my more than five years of Data Science.
+Lead Data Scientist at Freedom Financial Network was asked..., How and when did you make any impact using analytics?
+Data Scientist at Niantic was asked..., What metrics would you use to track the performance of a mobile game?
+Senior Data Scientist at Kahuna was asked..., What is a hash?
+Senior Data Scientist at Kahuna was asked..., How would you reverse a linked list?
+Data Scientist at Twitter was asked...," algorithm(50%), machine learning(30%), system design(20%)"
+Data Scientist at ClearMetal was asked..., Walk us through a favorite project you worked on recently.
+Data Scientist at ClearMetal was asked..., Walk us through a favorite project you worked on recently.
+Data Scientist at Clover Health was asked...," Expected value of rolling dice, ratio of boys/girls"
+Data Scientist at Opendoor was asked..., To talk about a project of mine.
+Data Scientist at Uber was asked..., Explain join fun in SQL to a 10-year-old?
+Data Scientist at Tripping was asked...," ""what time is good for an interview"""
+Data Scientist at Instacart was asked..., I can't reveal them but mostly around problems in Logistics that Instacart solves on a day to day basis.
+Data Scientist at E*TRADE Financial was asked..., Fraud classification task
+Data Scientist at Luxe Valet was asked..., How would you count words in a list using a list comprehension?
+Data Scientist at Postmates was asked..., Takehome challenge: clean and analyze a dataset related to Postmates' main business line; identify trends across different axes of deliveries.
+Data Scientist at Facebook was asked..., Why data? 
+Data Scientist at Facebook was asked..., Basic SQL concepts
+Principal Data Scientist at Walmart eCommerce was asked..., One of the people who interviewed me was kind enough to coach me that it would behoove me to tell the various interviewers that I am perfectly comfortable working with people younger than myself.
+Senior Data Scientist at Udemy was asked..., Explain how to interpret this model
+Data Scientist at C3 was asked...," Bagging vs Boosting, Dimensionality reduction...."
+Data Scientist at C3 was asked...," Standard data science, machine learning and coding questions"
+Principal Data Scientist at Sila Nanotechnologies was asked...," basic behavioral questions, nothing technical"
+Data Scientist at Dropbox was asked..., Do you know what propensity modeling is?
+Data Scientist at Dropbox was asked..., How would you set up a propensity model for the SMB team looking at companies between 5-200 employees? 
+Data Scientist at Castlight was asked...," You have a table that contains which book was purchased and a bunch of topics, and you want to find out what other books in the category can be recommended to the user. Design the query"
+Data Scientist at Dropbox was asked..., Tell me your story?
+Data Scientist at Facebook was asked..., Product/SQL/statistics questions
+Data Scientist at Uber was asked..., Go over the resume.. some SQL questions..
+Data Scientist at Facebook was asked...," SQL: calculate a rate given 2 tables, requiring a join and group by. Open-ended product analysis: A product manager is considering replacing an ad unit with a 'people you may know' unit on the news feed. What's your advice?"
+Data Scientist at Amino was asked...," Q: They described a machine learning problem and we talked about feature engineering, algorithm design and evaluation for it. "
+Data Scientist at C3 was asked..., Why using random forest rather than other algorithms.
+Data Scientist at LendingClub was asked..., What kinds of skills you learned in Statics for modeling?
+Data Scientist at Yammer was asked...," What’s the probability that in a room full of k people, at least 2 people will have the same birthday?"
+Data Scientist at LendingClub was asked...," How to put the same number of red and blue beans into two baskets, so if you randomly grab a basket you have a better chance to get red beans?"
+Data Scientist at Envoy was asked...," Using the consolidated data set from the above question, build a system that measures the LTV / CAC ratios of all our marketing channels."
+Data Scientist at Pinterest was asked..., Give an array of unsorted random numbers (decimals) find the interquartile distance 
+Data Scientist at Greenplum was asked...," A project where I have extracted useful information from a large data set. What machine learning algorithm did I use, and why?"
+Data Scientist at Facebook was asked..., How to run a SQL query to obtain a certain subset of information
+Data Scientist at Envoy was asked..., Design a system that can consolidate data from our various systems and persist it in a centralized data store.
+Data Scientist at Greenplum was asked..., Describe in details my MS thesis.
+Data Scientist at Greenplum was asked...," Given a particular data set, suggest three algorithms, one regression, one clustering, one classification."
+Data Scientist at Yammer was asked..., Standard background questions as well as probability questions based on dice rolls.
+Data Scientist at Google was asked..., What is 1+1
+Data Scientist at Wealthfront was asked..., sql questions
+Data Scientist - Product at Clover Health was asked...," Probability questions - dice, car probability questions"
+Data Scientist at Wealthfront was asked..., linear regression questions
+Infrastructure Data Scientist at Facebook was asked...," All technical questions center around SQL, coding and t-test"
+Data Scientist at Twitter was asked..., What features would you use to build recommendation algorithm for users.
+Data Scientist at Facebook was asked...," How would you compare the relative performance of two different back-end engines for automated generation of Facebook ""Friend"" suggestions?"
+Senior Data Scientist at Glassdoor was asked...," Basic probability & stats questions -- just go through the book Practical Statistics for Data Scientists & Brilliant.org and you'll be all set. But make sure to brush up on PM knowledge as well, since this seems to be what they're really looking for."
+Data Scientist at Facebook was asked...," Given an list A of objects and another list B which is identical to A except that one element is removed, find that removed element."
+Data Scientist at Uber was asked..., How would you design an incentive scheme for drivers such that they listen to your suggestion of going to areas where the demand is high. 
+Data Scientist Analytics at Facebook was asked..., mapping users' high school
+Data Scientist at Electronic Arts was asked..., Two hour long data science coding challenge. 
+Data Scientist at Facebook was asked..., Product questions that ask you how to derive a specific metric or what data you would use to solve a specific problem
+Data Scientist Interview at Instacart was asked...," How should we solve our supply / demand problems at Instacart? When an item isn't available, what algorithm should we use to replace it? Beware of questions that are functionally equivalent to ""Whats your greatest weakness"" but worded slightly differently."
+Data Scientist at Airbnb was asked..., Problem solving take home exercise with raw data
+Junior Data Scientist at ZapLabs was asked..., Describe one of your projects
+Data Scientist at Pinterest was asked...," Write a SQL query to count the number of unique users per day who logged in from both iPhone and web, where iPhone logs and web logs are in distinct relations."
+Data Scientist at Glassdoor was asked..., Q: Write a function to do integer division with strings as input Q: Why do you choose Glassdoor?
+Data Scientist at Omada Health was asked..., What related projects have you done?
+Data Scientist at Nastrac was asked...," introduce yourself, why nastrac, and some other behavior questions"
+Data Scientist at Thumbtack was asked...," The technical challenge was the only remarkable question really and it wasn't too _difficult_ per se, just a bit unclear what level of analysis was called for. Aim for the most thorough and statistically rigorous investigation of the small dataset that you can."
+Data Scientist at Cruise was asked..., Learning models and a few algorithm questions.
+Data Scientist at Twitter was asked..., More or less about Graphs and Map/Reduce
+Data Scientist at Lyft was asked..., Describe how to engineer the heatmap telling drivers where to go. How do you define which area will have high demand next and who do you want to go there?
+Data Scientist at Lyft was asked..., How do you model the impact of surge on demand and supply?
+Data Scientist at Affirm was asked..., find out which feature(s) are important in a black box model
+Data Scientist at Blue Owl was asked..., A data challenge where it asks for applying ML and your model accuracy should be above a certain value to be considered for next steps in interview. 
+Senior Data Scientist at Tubi was asked...," Machine learning questions, product metrics design questions, AB test and etc."
+Data Scientist at Facebook was asked..., Some medium difficulty SQL and probability questions. Some problem-solving/modeling deep-dives
+Data Scientist/Engineer Role at McKesson was asked...," The hiring manager essentially asked if I am prepared to work while commuting. There had been a lot of twists and turns since I applied in Dec 2013. I was repeatedly asked if commuting was an issue. After the in-person interview, Impending employment offer (that was discussed) never came."
+Data Scientist at Kabbage was asked...," MapReduce: Join two data files (customers, sales) and report top 10 performers."
+Data Scientist at Affirm was asked...," Interesting ML questions with a very practical focus, a couple more traditional non-ML coding questions, experimental design/interpretation"
+Data Scientist (Product Intelligence Manager) at Yammer was asked...," Example probability brain teasers: probabilities when rolling two dice twice with the second roll depending on the outcome of the first, the German tank problem, breaking a 4-digit code with different prior information etc. In total: know your combinatorics and Bayes rule in-and-out! Example business cases: - You own a museum and consider putting up an exhibition by a new artist. How would you go about the decision? What kind of information / data would you look for, how would you use it? - You want to buy a TV on amazon.com. How do you make a decision? - You performed A/B testing on a change in a search engine algorithm. Although in B, the coders made a mistake which led to really poor search results, user clicked on more results as well as on more ads. How do you interpret the results, what do you do next? etc. In total, they look for how you think and approach a problem. They often want to know how you deal with incomplete information, short timelines, trade-offs. Overall, all interviewers were very friendly and professional. My HR contact was very responsive throughout the whole process. My interview process was unusually long because of visa questions - normally they are faster than 3 months;-)"
+Data Scientist at Kabbage was asked...," NLP: How to find who cheated on essay writing in a group of 200 students? Scalability: the same for 1,000,000 students."
+Data Scientist at Kabbage was asked...," Personality: What one single word you would write on your tombstone? (Love this one :)))), first of all you have to get used to the fact that you have a tombstone)"
+Data Scientist at Twitter was asked...," One of the behavioral question: If I interview your PhD advisory, and I invite him/her to describe your strength and weakness, what do you think he will say."
+Data Scientist at AgilOne was asked...," You will be doing customer service, are you ok with that?"
+Data Scientist at Facebook was asked...," WHat's the probability of something, what's the distribution of sth"
+Data Scientist at Unity Technologies was asked..., dynamic programming
+Data Scientist at Second Measure was asked..., What is your superpower?
+Senior Data Scientist at BeyondCore was asked..., Tell me about what you do at your current job?
+Data Scientist at Lyft was asked...," Window functions, Stats of A/B testing, Probability and expectation, Churn, Lifetime of drivers, Pool matching"
+Data Scientist at Unity Technologies was asked..., logistic regression
+Data Scientist at Samba TV was asked..., Can you explain the central limit theorem to someone who is not familiar with statistics and probability?
+Data Scientist at Uber was asked..., What is the difference between MLE and MAP?
+Data Scientist at Uber was asked..., What do nested SELECT and WITH do in SQL?
+Data Scientist at Quantifind was asked...," Both detailed questions about machine learning projects, and coding/engineering challenges."
+Data Scientist at Facebook was asked..., Some SQL questions with fake tables. It was kind of tricky to wrap my head around it as white boarding was quite different from writing code on your computer screen. 
+Data Scientist at Facebook was asked..., Write code that prints out the friend graph after the final ts
+Senior Data Scientist at Lyft was asked..., How do you go about creating change in a company
+Senior Data Scientist at The League was asked...," Analytical questions regarding data and how to build models, SQL, 1 coding problem"
+Data Scientist at Glassdoor was asked..., What sorts of exhibits would you show a product manager to help them understand what parts of a self-service portal employers might be having trouble using.
+Data Scientist at Walmart eCommerce was asked..., How does your educational background relate to the work that is being done at Walmart eCommerce? 
+Data Scientist at Hired was asked..., Take-home data challenge: They gave me a data set and asked me to create a sample presentation that I would give to a product manager. 
+Data Scientist at Uber was asked..., Why Uber?
+Data Scientist at Brighterion was asked..., five AI technologies ?
